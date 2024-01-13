@@ -1,4 +1,4 @@
-Sample ID,Site,Date,Type,Cl_mg_L,SO4_mg_L,NO3_mg_L,PO4_mg_L,NRS_LWIA_notes,dD,d18O,Al_mg_L,Ca_mg_L,Cu_mg_L,Fe_mg_L,K_mg_L,Mg_mg_L,Mn_mg_L,Na_mg_L,P_mg_L,Zn_mg_L,Si_mg_L
-na,Hungerford,2/24/22,Precipitation,0.827775,1.004775,1.21435,1.1369,mean of all snow and rain endmembers,-111.908333333333,-15.7283333333333,0.015,0.67,0.01,0.015,0.323333333333333,0.101666666666667,0.0216666666666667,0.415,0.0666666666666667,0.0366666666666667,-0.0816666666666667
-na,Hungerford,2/16/22,Snow lysimeter,80.99045,18.4936,9.31325,1.5246,mean of all snow lysimeter endmembers,-65.695,-10.225,0.01,9.005,0.01,-0.005,1.345,1.68,0.01,32.76,0.08,0,1.405
-na,Hungerford,3/17/22,Groundwater,0.4779,2.461,0.4777,1.1292,mean of all groundwater endmembers,-71.405,-10.4,-0.105,86.6,0.02,-0.01,3.155,20.475,0.045,16.375,0.28,0.035,7.51
+Sample ID,Site,Date,Time,Type,Cl_mg_L,SO4_mg_L,NO3_mg_L,PO4_mg_L,NRS_LWIA_notes,dD,d18O,Al_mg_L,Ca_mg_L,Cu_mg_L,Fe_mg_L,K_mg_L,Mg_mg_L,Mn_mg_L,Na_mg_L,P_mg_L,Zn_mg_L,Si_mg_L
+na,Hungerford,2/24/22,00:00:00,Precipitation,0.827775,1.004775,1.21435,1.1369,mean of all snow and rain endmembers,-111.908333333333,-15.7283333333333,0.015,0.67,0.01,0.015,0.323333333333333,0.101666666666667,0.0216666666666667,0.415,0.0666666666666667,0.0366666666666667,-0.0816666666666667
+na,Hungerford,2/16/22,00:00:00,Snow lysimeter,80.99045,18.4936,9.31325,1.5246,mean of all snow lysimeter endmembers,-65.695,-10.225,0.01,9.005,0.01,-0.005,1.345,1.68,0.01,32.76,0.08,0,1.405
+na,Hungerford,3/17/22,00:00:00,Groundwater,0.4779,2.461,0.4777,1.1292,mean of all groundwater endmembers,-71.405,-10.4,-0.105,86.6,0.02,-0.01,3.155,20.475,0.045,16.375,0.28,0.035,7.51
