@@ -1,39 +1,3 @@
-#//////////////////////////////,,,,,,
-#---START OF METADATA---,,,,,,
-#------------------------------,,,,,,
-# TITLE: Lake Champlain Basin Program Project soil available nutrient data,,,,,,
-# CREATION TIMESTAMP: 26 February 2025 02:36:15 PM,,,,,,
-# AUTHOR: Megan Duffy,,,,,,
-#------------------------------,,,,,,
-# AUTHOR EMAIL: megan.duffy@uvm.edu,,,,,,
-"# AUTHOR ADDRESS: 705 Spear St, South Burlington, VT",,,,,,
-# AUTHOR WEBSITE: https://github.com/MeganEDuffy,,,,,,
-#------------------------------,,,,,,
-"# OWNERSHIP: Carol Adair, Rubenstein School of Environment and Natural Resources, University of Vermont",,,,,,
-,,,,,,
-# COLLABORATORS: One or more lines identifying others who collected/own data,,,,,,
-# FUNDING SOURCES: Grant numbers or funding sources for acknowlegment,,,,,,
-# REPOSITORY: ,,,,,,
-# CITATIONS: One or more lines for publications that cite or use these data,,,,,,
-,,,,,,
-#------------------------------,,,,,,
-"# SAMPLING LOCATIONS: Hungerford Brook (Sheldon, VT); Wade Brook (Montgomery, VT); Potash Brook (South Burlington, VT)",,,,,,
-# SAMPLING TIMES: 2021 to 2025,,,,,,
-# VARIABLE DESCRIPTION: One line for each column in the data set stating what it is and what the units of measurement are,,,,,,
-# MISSING DATA: One or more lines for each variable describing the source of NA values throughout,,,,,,
-#------------------------------,,,,,,
-# DATA TRACK CHANGES LOG (use this section to record any changes to the data set after it is created),,,,,,
-# DATE:,CHANGES:,,,,,
-# DATE:,CHANGES:,,,,,
-# DATE:,CHANGES:,,,,,
-# DATE:,CHANGES:,,,,,
-#------------------------------,,,,,,
-#---END OF METADATA---,,,,,,
-#//////////////////////////////,,,,,,
-#,,,,,,
-#,,,,,,
-#---START OF DATA---,,,,,,
-#,,,,,,
 Site,Transect,Pit,Species,Month,ug_cm2_month,Year
 Hungerford,Dry,1,Ammonium,December,0.25,2021
 Hungerford,Dry,1,Ammonium,January,8.1,2022
@@ -744,11 +708,11 @@ Wade,Dry,2,Phosphate,August,4.17,2022
 Wade,Dry,3,Phosphate,August,0.19,2022
 Wade,Dry,4,Phosphate,August,1.18,2022
 Wade,Dry,5,Phosphate,August,0.12,2022
-Wade Wet,Wet,1,Phosphate,August,1.84,2022
-Wade Wet,Wet,5,Phosphate,August,0.09,2022
-Wade Wet,Wet,6,Phosphate,August,0.04,2022
-Wade Wet,Wet,7,Phosphate,August,0.18,2022
-Wade Wet,Wet,8,Phosphate,August,3.56,2022
+Wade,Wet,1,Phosphate,August,1.84,2022
+Wade,Wet,5,Phosphate,August,0.09,2022
+Wade,Wet,6,Phosphate,August,0.04,2022
+Wade,Wet,7,Phosphate,August,0.18,2022
+Wade,Wet,8,Phosphate,August,3.56,2022
 Hungerford,Dry,1,Phosphate,August,2.61,2022
 Hungerford,Dry,2,Phosphate,August,3.82,2022
 Hungerford,Wet,1,Phosphate,August,1.8,2022
