@@ -1,25 +1,4 @@
 Sample ID,Fl_mg_L,Cl_mg_L,NO2_mg_L,Br_mg_L,NO3_mg_L,PO4_mg_L,SO4_mg_L,IC-notes
-RI23-5000,NA,1.923457692,NA,NA,4.33844694,1.589903809,2.869524728,2024-10-03 MED switched SO4 and PO4 values because I think they are erroneous. Verified in Chromeleon I don't think SS knew the swap the peaks.
-RI23-5001,NA,3.04384406,NA,NA,9.087003229,1.603273102,6.460805047,2024-10-03 MED switched SO4 and PO4 values because I think they are erroneous. Verified in Chromeleon I don't think SS knew the swap the peaks.
-RI23-5002,0.057106365,6.380104084,0.811890334,NA,4.96921924,NA,5.218622354,2024-10-03 MED switched SO4 and PO4 values because I think they are erroneous. Verified in Chromeleon I don't think SS knew the swap the peaks.
-RI23-5003,NA,5.625607653,NA,NA,65.63708637,1.535731233,17.22829595,2024-10-03 MED switched SO4 and PO4 values because I think they are erroneous. Verified in Chromeleon I don't think SS knew the swap the peaks.
-RI23-5004,NA,1.7332,NA,NA,2.5428,NA,3.4481,2024-10-03 MED switched SO4 and PO4 values because I think they are erroneous. Verified in Chromeleon I don't think SS knew the swap the peaks.
-RI23-5005,NA,1.822968034,0.80210356,NA,2.45898375,1.597084061,3.54367992,2024-10-03 MED switched SO4 and PO4 values because I think they are erroneous. Verified in Chromeleon I don't think SS knew the swap the peaks.
-RI23-5006,NA,1.752880691,NA,NA,1.717066079,NA,10.92170103,2024-10-03 MED switched SO4 and PO4 values because I think they are erroneous. Verified in Chromeleon I don't think SS knew the swap the peaks.
-RI23-5007,0.180018148,5.501723609,0.790967663,1.560382427,54.19291003,1.54591444,20.19954881,2024-10-03 MED switched SO4 and PO4 values because I think they are erroneous. Verified in Chromeleon I don't think SS knew the swap the peaks.
-RI23-5008,0.015458651,60.24839626,0.857020045,1.605056166,3.983550327,1.58724521,83.82824622,2024-10-03 MED switched SO4 and PO4 values because I think they are erroneous. Verified in Chromeleon I don't think SS knew the swap the peaks.
-RI23-5009,NA,1.905036884,NA,NA,3.712501258,1.597330099,4.732060342,2024-10-03 MED switched SO4 and PO4 values because I think they are erroneous. Verified in Chromeleon I don't think SS knew the swap the peaks.
-RI23-5010,0.046401456,1.65031151,NA,NA,2.216317094,NA,3.514948659,2024-10-03 MED switched SO4 and PO4 values because I think they are erroneous. Verified in Chromeleon I don't think SS knew the swap the peaks.
-RI23-5011,NA,1.736025708,NA,NA,2.568172804,NA,4.574632908,2024-10-03 MED switched SO4 and PO4 values because I think they are erroneous. Verified in Chromeleon I don't think SS knew the swap the peaks.
-RI23-5012,NA,1.683677649,NA,NA,1.866062816,1.611530471,2.994068894,2024-10-03 MED switched SO4 and PO4 values because I think they are erroneous. Verified in Chromeleon I don't think SS knew the swap the peaks.
-RI23-5013,NA,2.949201663,NA,NA,12.1266859,1.574413501,6.914068453,2024-10-03 MED switched SO4 and PO4 values because I think they are erroneous. Verified in Chromeleon I don't think SS knew the swap the peaks.
-RI23-5014,NA,4.065669151,NA,1.557410743,45.91070652,1.547171644,16.30907021,2024-10-03 MED switched SO4 and PO4 values because I think they are erroneous. Verified in Chromeleon I don't think SS knew the swap the peaks.
-RI23-5015,0.032667482,1.875389224,NA,NA,2.371766064,NA,7.659225474,2024-10-03 MED switched SO4 and PO4 values because I think they are erroneous. Verified in Chromeleon I don't think SS knew the swap the peaks.
-RI23-5016,0.04061602,1.69918818,0.796777766,NA,2.439743042,1.614174956,2.892481031,2024-10-03 MED switched SO4 and PO4 values because I think they are erroneous. Verified in Chromeleon I don't think SS knew the swap the peaks.
-RI23-1061,0.0474,2.1995,0.4463,NA,2.5785,NA,1.3314,
-RI23-1063,NA,1.2092,0.4249,NA,2.03,NA,1.3209,time is arbitrary
-RI23-1098,NA,1.3179,0.5913,NA,1.3875,2.2004,1.0012,
-RI23-1100,NA,1.779603237,NA,NA,2.556605766,1.595329548,5.863016648,2024-10-03 MED switched SO4 and PO4 values because I think they are erroneous. Verified in Chromeleon I don't think SS knew the swap the peaks.
 RI23-1001,NA,36.24354745,NA,NA,13.79784939,NA,50.59468528,2024-10-03 MED switched SO4 and PO4 values because I think they are erroneous. Verified in Chromeleon I don't think SS knew the swap the peaks.
 RI23-1002,0.001488139,36.58841901,0.793567672,NA,13.73243499,NA,48.18684922,2024-10-03 MED switched SO4 and PO4 values because I think they are erroneous. Verified in Chromeleon I don't think SS knew the swap the peaks.
 RI23-1003,0.039951549,34.27060158,0.793551784,NA,12.65017776,NA,45.78276962,2024-10-03 MED switched SO4 and PO4 values because I think they are erroneous. Verified in Chromeleon I don't think SS knew the swap the peaks.
@@ -36,7 +15,6 @@ RI23-1013,0.082762811,1.825491289,NA,NA,2.380357969,1.599586788,6.799209333,2024
 RI23-1014,NA,1.826587993,NA,1.564433136,2.427248866,1.600097968,6.946511437,2024-10-03 MED switched SO4 and PO4 values because I think they are erroneous. Verified in Chromeleon I don't think SS knew the swap the peaks.
 RI23-1026,NA,36.0978,NA,NA,25.2192,1.6233,24.5824,There is no 33 - though there are 2 34s
 RI23-1027,0.1184,23.8431,0.4163,NA,15.7319,1.613,17.4841,
-RI23-1028,NA,0.9358,NA,NA,2.0338,1.1228,3.3116,
 RI23-1028,NA,0.948,0.4168,NA,2.0177,NA,3.3358,
 RI23-1029,NA,0.939,NA,NA,1.6933,NA,3.3321,
 RI23-1030,NA,0.9883,NA,NA,1.7558,NA,3.4961,
@@ -69,7 +47,9 @@ RI23-1057,NA,1.3097,0.4191,NA,1.9646,1.7182,2.8216,
 RI23-1058,NA,1.3006,0.4151,NA,2.0998,1.6985,2.9672,
 RI23-1059,NA,1.3079,0.4255,NA,2.122,1.6925,3.0719,time is arbitrary
 RI23-1060,NA,1.3193,0.4146,NA,2.149,1.6943,3.1954,
+RI23-1061,0.0474,2.1995,0.4463,NA,2.5785,NA,1.3314,
 RI23-1062,NA,1.3911,0.4201,NA,1.8335,1.7632,1.1225,
+RI23-1063,NA,1.2092,0.4249,NA,2.03,NA,1.3209,time is arbitrary
 RI23-1064,NA,1.3522,NA,NA,1.8115,NA,4.105,
 RI23-1065,NA,1.3297,0.4124,0.7234,1.8783,1.7157,3.8227,
 RI23-1066,NA,1.3794,0.417,NA,1.8045,NA,3.9186,
@@ -81,7 +61,6 @@ RI23-1071,NA,1.2492,0.4203,NA,1.8265,NA,3.0346,
 RI23-1072,NA,1.2779,NA,NA,1.9689,NA,3.1615,
 RI23-1073,NA,1.2742,0.4183,NA,1.9483,1.7209,3.2118,
 RI23-1074,NA,1.3075,0.4219,NA,2.0406,1.6932,3.3687,
-RI23-1074,NA,1.3232,NA,NA,2.021,NA,3.396,
 RI23-1075,NA,1.3168,0.4228,NA,2.0774,NA,3.5599,
 RI23-1076,NA,23.3253,NA,NA,10.1398,1.867,14.6027,from Saul - No Time or type put in for sample data
 RI23-1077,NA,1.637,NA,NA,2.0278,NA,3.5605,
@@ -104,9 +83,28 @@ RI23-1094,NA,1.4376,0.5889,NA,2.1944,2.1993,3.2416,
 RI23-1095,NA,1.4718,0.5792,NA,2.0527,NA,3.0893,
 RI23-1096,NA,1.4211,NA,NA,2.0747,2.162,2.8366,
 RI23-1097,NA,1.4203,0.5776,NA,2.2482,NA,2.8978,
+RI23-1098,NA,1.3179,0.5913,NA,1.3875,2.2004,1.0012,
 RI23-1099,NA,31.0924,0.5819,NA,12.7652,2.4245,18.4906,
+RI23-1100,NA,1.779603237,NA,NA,2.556605766,1.595329548,5.863016648,2024-10-03 MED switched SO4 and PO4 values because I think they are erroneous. Verified in Chromeleon I don't think SS knew the swap the peaks.
 RI23-1101,NA,1.3819,0.5757,NA,2.4669,NA,2.4997,
 RI23-1102,NA,1.3839,NA,NA,2.4734,2.1762,2.4755,
+RI23-5000,NA,1.923457692,NA,NA,4.33844694,1.589903809,2.869524728,2024-10-03 MED switched SO4 and PO4 values because I think they are erroneous. Verified in Chromeleon I don't think SS knew the swap the peaks.
+RI23-5001,NA,3.04384406,NA,NA,9.087003229,1.603273102,6.460805047,2024-10-03 MED switched SO4 and PO4 values because I think they are erroneous. Verified in Chromeleon I don't think SS knew the swap the peaks.
+RI23-5002,0.057106365,6.380104084,0.811890334,NA,4.96921924,NA,5.218622354,2024-10-03 MED switched SO4 and PO4 values because I think they are erroneous. Verified in Chromeleon I don't think SS knew the swap the peaks.
+RI23-5003,NA,5.625607653,NA,NA,65.63708637,1.535731233,17.22829595,2024-10-03 MED switched SO4 and PO4 values because I think they are erroneous. Verified in Chromeleon I don't think SS knew the swap the peaks.
+RI23-5004,NA,1.7332,NA,NA,2.5428,NA,3.4481,2024-10-03 MED switched SO4 and PO4 values because I think they are erroneous. Verified in Chromeleon I don't think SS knew the swap the peaks.
+RI23-5005,NA,1.822968034,0.80210356,NA,2.45898375,1.597084061,3.54367992,2024-10-03 MED switched SO4 and PO4 values because I think they are erroneous. Verified in Chromeleon I don't think SS knew the swap the peaks.
+RI23-5006,NA,1.752880691,NA,NA,1.717066079,NA,10.92170103,2024-10-03 MED switched SO4 and PO4 values because I think they are erroneous. Verified in Chromeleon I don't think SS knew the swap the peaks.
+RI23-5007,0.180018148,5.501723609,0.790967663,1.560382427,54.19291003,1.54591444,20.19954881,2024-10-03 MED switched SO4 and PO4 values because I think they are erroneous. Verified in Chromeleon I don't think SS knew the swap the peaks.
+RI23-5008,0.015458651,60.24839626,0.857020045,1.605056166,3.983550327,1.58724521,83.82824622,2024-10-03 MED switched SO4 and PO4 values because I think they are erroneous. Verified in Chromeleon I don't think SS knew the swap the peaks.
+RI23-5009,NA,1.905036884,NA,NA,3.712501258,1.597330099,4.732060342,2024-10-03 MED switched SO4 and PO4 values because I think they are erroneous. Verified in Chromeleon I don't think SS knew the swap the peaks.
+RI23-5010,0.046401456,1.65031151,NA,NA,2.216317094,NA,3.514948659,2024-10-03 MED switched SO4 and PO4 values because I think they are erroneous. Verified in Chromeleon I don't think SS knew the swap the peaks.
+RI23-5011,NA,1.736025708,NA,NA,2.568172804,NA,4.574632908,2024-10-03 MED switched SO4 and PO4 values because I think they are erroneous. Verified in Chromeleon I don't think SS knew the swap the peaks.
+RI23-5012,NA,1.683677649,NA,NA,1.866062816,1.611530471,2.994068894,2024-10-03 MED switched SO4 and PO4 values because I think they are erroneous. Verified in Chromeleon I don't think SS knew the swap the peaks.
+RI23-5013,NA,2.949201663,NA,NA,12.1266859,1.574413501,6.914068453,2024-10-03 MED switched SO4 and PO4 values because I think they are erroneous. Verified in Chromeleon I don't think SS knew the swap the peaks.
+RI23-5014,NA,4.065669151,NA,1.557410743,45.91070652,1.547171644,16.30907021,2024-10-03 MED switched SO4 and PO4 values because I think they are erroneous. Verified in Chromeleon I don't think SS knew the swap the peaks.
+RI23-5015,0.032667482,1.875389224,NA,NA,2.371766064,NA,7.659225474,2024-10-03 MED switched SO4 and PO4 values because I think they are erroneous. Verified in Chromeleon I don't think SS knew the swap the peaks.
+RI23-5016,0.04061602,1.69918818,0.796777766,NA,2.439743042,1.614174956,2.892481031,2024-10-03 MED switched SO4 and PO4 values because I think they are erroneous. Verified in Chromeleon I don't think SS knew the swap the peaks.
 RI24-1001,NA,1.7943,NA,0.9015,2.2575,NA,3.0983,
 RI24-1003,NA,1.5105,NA,NA,2.166,2.2109,3.1313,
 RI24-1006,NA,1.4975,NA,NA,2.1475,2.1666,3.2742,
