@@ -115,6 +115,7 @@ ISO23-113,Hungerford,04/12/2023,12:00,DM,Endmember,,,,,,,,,,,,,,,,,,,,,,,-79.702
 ISO23-159,Hungerford,02/22/2023,01:15,Grab,Endmember,,,,,,,,,,,,,,,,,,,,,,,-68.854,-9.698,
 ISO23-160,Wade,02/22/2023,11:30,Grab,Endmember,,,,,,,,,,,,,,,,,,,,,,,-78.887,-11.042,
 ISO23-161,Hungerford,01/04/2023,12:00,Soil water lysimeter wet,Endmember,Wet Soil Lys,,,,,,,,,,,,,,,,,,,,,,-65.565,-9.298,Wet Soil Lys
-ISO23-163,Wade,01/25/2023,12:00,Snow lysimeter,Endmember,,,,,,,,,,,,,,,,,,,,,,,-94.197,-13.792,"Data rubbed off of bottle, don't know type of lysimeter MED guessing SM"
+ISO23-163,Wade,01/25/2023,12:00,Snowmelt lysimeter,Endmember,,,,,,,,,,,,,,,,,,,,,,,-94.197,-13.792,"Data rubbed off of bottle, don't know type of lysimeter MED guessing SM"
 ISO23-164,Hungerford,01/24/2023,12:00,Baseflow,Endmember,,,,,,,,,,,,,,,,,,,,,,,-66.275,-9.682,
 ISO23-165,Wade,01/24/2023,12:00,Baseflow,Endmember,,,,,,,,,,,,,,,,,,,,,,,-76.707,-11.481,
+RI20-0085,Wade,06/23/20,12:00,Ravindra deep groundwater,Endmember,"Ravindra2020_3151HazensNotchRd, WB-DWG-1",Ravindra2020_3151HazensNotchRd,0.0168857492626605,0.0024537520342465,0.0086746411357045,0.0291481198982891,6.13372031077012,0.445173310440814,,4.65934795598839,3.37768755574607,0.0006810181769226,15.608014678353,,0.228532,,,,,,"Ravindra2020_3151HazensNotchRd, WB-DWG-1 NO3-N SO4-S and PO4-P also in orginal spreadsheet",,,,
