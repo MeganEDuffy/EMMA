@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:citoterms="http://purl.org/spar/cito/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ore="http://www.openarchives.org/ore/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs1="http://www.w3.org/2001/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://www.hydroshare.org/resource/58b0f961c81a41939415526c8ad78d33/data/resourcemetadata.xml">
+    <dc:title>Dublin Core science metadata document describing the HydroShare resource</dc:title>
+    <citoterms:documents>http://www.hydroshare.org/resource/58b0f961c81a41939415526c8ad78d33/data/resourcemap.xml#aggregation</citoterms:documents>
+    <ore:isAggregatedBy>http://www.hydroshare.org/resource/58b0f961c81a41939415526c8ad78d33/data/resourcemap.xml#aggregation</ore:isAggregatedBy>
+    <dc:format>application/rdf+xml</dc:format>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.hydroshare.org/resource/58b0f961c81a41939415526c8ad78d33/data/resourcemap.xml#aggregation">
+    <ore:aggregates rdf:resource="http://www.hydroshare.org/resource/58b0f961c81a41939415526c8ad78d33/data/contents/Matlab%20Materials/EMMALAB.mlapp"/>
+    <ore:aggregates rdf:resource="http://www.hydroshare.org/resource/58b0f961c81a41939415526c8ad78d33/data/contents/Matlab%20Materials/installer_photo.png"/>
+    <ore:aggregates rdf:resource="http://www.hydroshare.org/resource/58b0f961c81a41939415526c8ad78d33/data/contents/EMMALABinstallers.zip"/>
+    <dcterms:type rdf:resource="https://www.hydroshare.org/terms/CompositeResource"/>
+    <ore:aggregates rdf:resource="http://www.hydroshare.org/resource/58b0f961c81a41939415526c8ad78d33/data/contents/Matlab%20Materials/EMMA2.png"/>
+    <ore:aggregates rdf:resource="http://www.hydroshare.org/resource/58b0f961c81a41939415526c8ad78d33/data/contents/Matlab%20Materials/NSF_Official_logo_High_Res_1200ppi.png"/>
+    <ore:aggregates rdf:resource="http://www.hydroshare.org/resource/58b0f961c81a41939415526c8ad78d33/data/resourcemetadata.xml"/>
+    <ore:aggregates rdf:resource="http://www.hydroshare.org/resource/58b0f961c81a41939415526c8ad78d33/data/contents/Matlab%20Materials/EMMA5.png"/>
+    <ore:aggregates rdf:resource="http://www.hydroshare.org/resource/58b0f961c81a41939415526c8ad78d33/data/contents/Matlab%20Materials/launch_photo.png"/>
+    <rdf:type rdf:resource="http://www.openarchives.org/ore/terms/Aggregation"/>
+    <citoterms:isDocumentedBy>http://www.hydroshare.org/resource/58b0f961c81a41939415526c8ad78d33/data/resourcemetadata.xml</citoterms:isDocumentedBy>
+    <ore:aggregates rdf:resource="http://www.hydroshare.org/resource/58b0f961c81a41939415526c8ad78d33/data/contents/EMMALAB_Video_Script.pdf"/>
+    <ore:aggregates rdf:resource="http://www.hydroshare.org/resource/58b0f961c81a41939415526c8ad78d33/data/contents/Matlab%20Materials/EMMA4.png"/>
+    <ore:aggregates rdf:resource="http://www.hydroshare.org/resource/58b0f961c81a41939415526c8ad78d33/data/contents/Matlab%20Materials/EMMA1.png"/>
+    <ore:aggregates rdf:resource="http://www.hydroshare.org/resource/58b0f961c81a41939415526c8ad78d33/data/contents/Matlab%20Materials/BYU_Geo_Logo.png"/>
+    <ore:aggregates rdf:resource="http://www.hydroshare.org/resource/58b0f961c81a41939415526c8ad78d33/data/contents/Matlab%20Materials/EMMA6.png"/>
+    <ore:aggregates rdf:resource="http://www.hydroshare.org/resource/58b0f961c81a41939415526c8ad78d33/data/contents/Matlab%20Materials/splash_screen.png"/>
+    <ore:aggregates rdf:resource="http://www.hydroshare.org/resource/58b0f961c81a41939415526c8ad78d33/data/contents/Provo_River_Example_Dataset.xlsx"/>
+    <ore:aggregates rdf:resource="http://www.hydroshare.org/resource/58b0f961c81a41939415526c8ad78d33/data/contents/EMMALAB_Dataset_Template.xlsx"/>
+    <ore:aggregates rdf:resource="http://www.hydroshare.org/resource/58b0f961c81a41939415526c8ad78d33/data/contents/Matlab%20Materials/ErrorEMMA.m"/>
+    <ore:aggregates rdf:resource="http://www.hydroshare.org/resource/58b0f961c81a41939415526c8ad78d33/data/contents/Matlab%20Materials/AnalyzeEMMA.m"/>
+    <ore:aggregates rdf:resource="http://www.hydroshare.org/resource/58b0f961c81a41939415526c8ad78d33/data/contents/Matlab%20Materials/EMMA3.png"/>
+    <dc:title>EMMALAB v. 1.0: Software for improved endmember mixing analysis</dc:title>
+    <ore:aggregates rdf:resource="http://www.hydroshare.org/resource/58b0f961c81a41939415526c8ad78d33/data/contents/Matlab%20Materials/DataEMMA.m"/>
+        <ore:isDescribedBy>http://www.hydroshare.org/resource/58b0f961c81a41939415526c8ad78d33/data/resourcemap.xml</ore:isDescribedBy>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.openarchives.org/ore/terms/Aggregation">
+    <rdfs1:isDefinedBy>http://www.openarchives.org/ore/terms/</rdfs1:isDefinedBy>
+    <rdfs1:label>Aggregation</rdfs1:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.hydroshare.org/resource/58b0f961c81a41939415526c8ad78d33/data/contents/Matlab%20Materials/launch_photo.png">
+    <ore:isAggregatedBy>http://www.hydroshare.org/resource/58b0f961c81a41939415526c8ad78d33/data/resourcemap.xml#aggregation</ore:isAggregatedBy>
+    <dc:format>image/png</dc:format>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.hydroshare.org/resource/58b0f961c81a41939415526c8ad78d33/data/contents/Matlab%20Materials/EMMA3.png">
+    <ore:isAggregatedBy>http://www.hydroshare.org/resource/58b0f961c81a41939415526c8ad78d33/data/resourcemap.xml#aggregation</ore:isAggregatedBy>
+    <dc:format>image/png</dc:format>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.hydroshare.org/resource/58b0f961c81a41939415526c8ad78d33/data/contents/Provo_River_Example_Dataset.xlsx">
+    <ore:isAggregatedBy>http://www.hydroshare.org/resource/58b0f961c81a41939415526c8ad78d33/data/resourcemap.xml#aggregation</ore:isAggregatedBy>
+    <dc:format>application/vnd.openxmlformats-officedocument.spreadsheetml.sheet</dc:format>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.openarchives.org/ore/terms/ResourceMap">
+    <rdfs1:isDefinedBy>http://www.openarchives.org/ore/terms/</rdfs1:isDefinedBy>
+    <rdfs1:label>ResourceMap</rdfs1:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.hydroshare.org/resource/58b0f961c81a41939415526c8ad78d33/data/contents/EMMALAB_Video_Script.pdf">
+    <ore:isAggregatedBy>http://www.hydroshare.org/resource/58b0f961c81a41939415526c8ad78d33/data/resourcemap.xml#aggregation</ore:isAggregatedBy>
+    <dc:format>application/pdf</dc:format>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://foresite-toolkit.googlecode.com/#pythonAgent">
+    <foaf:mbox>foresite@googlegroups.com</foaf:mbox>
+    <foaf:name>Foresite Toolkit (Python)</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.hydroshare.org/resource/58b0f961c81a41939415526c8ad78d33/data/resourcemap.xml">
+    <dc:identifier>58b0f961c81a41939415526c8ad78d33</dc:identifier>
+    <ore:describes rdf:resource="http://www.hydroshare.org/resource/58b0f961c81a41939415526c8ad78d33/data/resourcemap.xml#aggregation"/>
+    <dcterms:modified>2025-03-13T08:27:11Z</dcterms:modified>
+    <dc:creator rdf:resource="http://foresite-toolkit.googlecode.com/#pythonAgent"/>
+    <rdf:type rdf:resource="http://www.openarchives.org/ore/terms/ResourceMap"/>
+    <dcterms:created>2025-03-13T08:27:11Z</dcterms:created>
+    <dc:format>application/rdf+xml</dc:format>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.hydroshare.org/resource/58b0f961c81a41939415526c8ad78d33/data/contents/EMMALAB_Dataset_Template.xlsx">
+    <ore:isAggregatedBy>http://www.hydroshare.org/resource/58b0f961c81a41939415526c8ad78d33/data/resourcemap.xml#aggregation</ore:isAggregatedBy>
+    <dc:format>application/vnd.openxmlformats-officedocument.spreadsheetml.sheet</dc:format>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.hydroshare.org/resource/58b0f961c81a41939415526c8ad78d33/data/contents/Matlab%20Materials/EMMA5.png">
+    <ore:isAggregatedBy>http://www.hydroshare.org/resource/58b0f961c81a41939415526c8ad78d33/data/resourcemap.xml#aggregation</ore:isAggregatedBy>
+    <dc:format>image/png</dc:format>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.hydroshare.org/resource/58b0f961c81a41939415526c8ad78d33/data/contents/Matlab%20Materials/AnalyzeEMMA.m">
+    <dc:format>application/m</dc:format>
+    <ore:isAggregatedBy>http://www.hydroshare.org/resource/58b0f961c81a41939415526c8ad78d33/data/resourcemap.xml#aggregation</ore:isAggregatedBy>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.hydroshare.org/resource/58b0f961c81a41939415526c8ad78d33/data/contents/EMMALABinstallers.zip">
+    <dc:format>application/zip</dc:format>
+    <ore:isAggregatedBy>http://www.hydroshare.org/resource/58b0f961c81a41939415526c8ad78d33/data/resourcemap.xml#aggregation</ore:isAggregatedBy>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.hydroshare.org/resource/58b0f961c81a41939415526c8ad78d33/data/contents/Matlab%20Materials/BYU_Geo_Logo.png">
+    <ore:isAggregatedBy>http://www.hydroshare.org/resource/58b0f961c81a41939415526c8ad78d33/data/resourcemap.xml#aggregation</ore:isAggregatedBy>
+    <dc:format>image/png</dc:format>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.hydroshare.org/terms/CompositeResource">
+    <rdfs1:label>Composite Resource</rdfs1:label>
+    <rdfs1:isDefinedBy>http://www.hydroshare.org/terms</rdfs1:isDefinedBy>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.hydroshare.org/resource/58b0f961c81a41939415526c8ad78d33/data/contents/Matlab%20Materials/EMMA2.png">
+    <dc:format>image/png</dc:format>
+    <ore:isAggregatedBy>http://www.hydroshare.org/resource/58b0f961c81a41939415526c8ad78d33/data/resourcemap.xml#aggregation</ore:isAggregatedBy>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.hydroshare.org/resource/58b0f961c81a41939415526c8ad78d33/data/contents/Matlab%20Materials/EMMALAB.mlapp">
+    <ore:isAggregatedBy>http://www.hydroshare.org/resource/58b0f961c81a41939415526c8ad78d33/data/resourcemap.xml#aggregation</ore:isAggregatedBy>
+    <dc:format>application/mlapp</dc:format>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.hydroshare.org/resource/58b0f961c81a41939415526c8ad78d33/data/contents/Matlab%20Materials/EMMA1.png">
+    <dc:format>image/png</dc:format>
+    <ore:isAggregatedBy>http://www.hydroshare.org/resource/58b0f961c81a41939415526c8ad78d33/data/resourcemap.xml#aggregation</ore:isAggregatedBy>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.hydroshare.org/resource/58b0f961c81a41939415526c8ad78d33/data/contents/Matlab%20Materials/ErrorEMMA.m">
+    <ore:isAggregatedBy>http://www.hydroshare.org/resource/58b0f961c81a41939415526c8ad78d33/data/resourcemap.xml#aggregation</ore:isAggregatedBy>
+    <dc:format>application/m</dc:format>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.hydroshare.org/resource/58b0f961c81a41939415526c8ad78d33/data/contents/Matlab%20Materials/splash_screen.png">
+    <ore:isAggregatedBy>http://www.hydroshare.org/resource/58b0f961c81a41939415526c8ad78d33/data/resourcemap.xml#aggregation</ore:isAggregatedBy>
+    <dc:format>image/png</dc:format>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.hydroshare.org/resource/58b0f961c81a41939415526c8ad78d33/data/contents/Matlab%20Materials/DataEMMA.m">
+    <ore:isAggregatedBy>http://www.hydroshare.org/resource/58b0f961c81a41939415526c8ad78d33/data/resourcemap.xml#aggregation</ore:isAggregatedBy>
+    <dc:format>application/m</dc:format>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.hydroshare.org/resource/58b0f961c81a41939415526c8ad78d33/data/contents/Matlab%20Materials/NSF_Official_logo_High_Res_1200ppi.png">
+    <dc:format>image/png</dc:format>
+    <ore:isAggregatedBy>http://www.hydroshare.org/resource/58b0f961c81a41939415526c8ad78d33/data/resourcemap.xml#aggregation</ore:isAggregatedBy>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.hydroshare.org/resource/58b0f961c81a41939415526c8ad78d33/data/contents/Matlab%20Materials/EMMA6.png">
+    <ore:isAggregatedBy>http://www.hydroshare.org/resource/58b0f961c81a41939415526c8ad78d33/data/resourcemap.xml#aggregation</ore:isAggregatedBy>
+    <dc:format>image/png</dc:format>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.hydroshare.org/resource/58b0f961c81a41939415526c8ad78d33/data/contents/Matlab%20Materials/installer_photo.png">
+    <ore:isAggregatedBy>http://www.hydroshare.org/resource/58b0f961c81a41939415526c8ad78d33/data/resourcemap.xml#aggregation</ore:isAggregatedBy>
+    <dc:format>image/png</dc:format>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.hydroshare.org/resource/58b0f961c81a41939415526c8ad78d33/data/contents/Matlab%20Materials/EMMA4.png">
+    <ore:isAggregatedBy>http://www.hydroshare.org/resource/58b0f961c81a41939415526c8ad78d33/data/resourcemap.xml#aggregation</ore:isAggregatedBy>
+    <dc:format>image/png</dc:format>
+  </rdf:Description>
+</rdf:RDF>

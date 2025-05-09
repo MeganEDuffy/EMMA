@@ -1,0 +1,21 @@
+8c37228d4f9c551b18ad85fb8823de42    data/contents/EMMALAB_Dataset_Template.xlsx
+1dc56d77e965ed76f9e8b2867ca72266    data/contents/EMMALAB_Video_Script.pdf
+db1671cd3edd1ae4e114549589d609c8-2    data/contents/EMMALABinstallers.zip
+93e49209d8ac0a7905bc0e5d72389d0b    data/contents/Matlab Materials/AnalyzeEMMA.m
+86aa9f1b28ecf7a102c27726ab871b67    data/contents/Matlab Materials/BYU_Geo_Logo.png
+ec1ee4007cea859102b8bc09cb57b8e4    data/contents/Matlab Materials/DataEMMA.m
+c83a4279976f3f8366581ba24d9595df    data/contents/Matlab Materials/EMMA1.png
+c128876163e5483ddbe348b1d07f8230    data/contents/Matlab Materials/EMMA2.png
+4c499217ecb98b33cbb84900b92dfd45    data/contents/Matlab Materials/EMMA3.png
+04f2071a8224c8cb58b7080031ab44b6    data/contents/Matlab Materials/EMMA4.png
+e9c5280833193c43b1060cfc9fde6052    data/contents/Matlab Materials/EMMA5.png
+cc38e78ba0849259c97e0616ff06c79e    data/contents/Matlab Materials/EMMA6.png
+39ef813e4ae52a5d5a2edc400a7b4c3a    data/contents/Matlab Materials/EMMALAB.mlapp
+3bab4ecc7663b09ad5971e7ff9163eb2    data/contents/Matlab Materials/ErrorEMMA.m
+5c7887349d0fee4401b2d0650ed1f6fe    data/contents/Matlab Materials/NSF_Official_logo_High_Res_1200ppi.png
+47ae7aff2221d78cd32e6c5c5d7bbd92    data/contents/Matlab Materials/installer_photo.png
+3af74b96dca5d5ea9f3ad8a64729c736    data/contents/Matlab Materials/launch_photo.png
+1bec554ec867598b2997fc2fd50e14df    data/contents/Matlab Materials/splash_screen.png
+3ab717ff78443b17dd6434f2336dd78e    data/contents/Provo_River_Example_Dataset.xlsx
+b3a98b5037a1a51eca0f09be9feeda5b    data/resourcemap.xml
+8213582ac4b219988136415bdd4cd9e3    data/resourcemetadata.xml

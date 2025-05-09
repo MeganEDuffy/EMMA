@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:hsterms="https://www.hydroshare.org/terms/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://www.hydroshare.org/terms/CompositeResource">
+    <rdfs:label>Composite Resource</rdfs:label>
+    <rdfs:isDefinedBy rdf:resource="https://www.hydroshare.org/terms/"/>
+  </rdf:Description>
+  <hsterms:CompositeResource rdf:about="http://www.hydroshare.org/resource/58b0f961c81a41939415526c8ad78d33">
+    <dc:date>
+      <dcterms:created>
+        <rdf:value>2023-11-29T22:41:07.893800+00:00</rdf:value>
+      </dcterms:created>
+    </dc:date>
+    <dc:subject>emma</dc:subject>
+    <dc:subject>Matlab</dc:subject>
+    <dc:identifier>
+      <rdf:Description>
+        <hsterms:doi rdf:resource="https://doi.org/10.4211/hs.58b0f961c81a41939415526c8ad78d33"/>
+      </rdf:Description>
+    </dc:identifier>
+    <hsterms:awardInfo>
+      <rdf:Description>
+        <hsterms:awardNumber>EAR-2012093</hsterms:awardNumber>
+        <hsterms:awardTitle>Dust in the Critical Zone from the Great Basin to the Rocky Mountains								</hsterms:awardTitle>
+        <hsterms:fundingAgencyName>National Science Foundation</hsterms:fundingAgencyName>
+      </rdf:Description>
+    </hsterms:awardInfo>
+    <dc:date>
+      <hsterms:published>
+        <rdf:value>2024-01-08T21:10:24.299532+00:00</rdf:value>
+      </hsterms:published>
+    </dc:date>
+    <dc:type rdf:resource="https://www.hydroshare.org/terms/CompositeResource"/>
+    <dc:creator>
+      <rdf:Description>
+        <hsterms:name>Evans, Emily J.</hsterms:name>
+        <hsterms:organization>Brigham Young University</hsterms:organization>
+        <hsterms:email>ejevans@math.byu.edu</hsterms:email>
+        <hsterms:creatorOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</hsterms:creatorOrder>
+        <hsterms:address>283 TMCB, Provo, UT 84602</hsterms:address>
+      </rdf:Description>
+    </dc:creator>
+    <dc:rights>
+      <rdf:Description>
+        <hsterms:URL rdf:resource="http://creativecommons.org/licenses/by/4.0/"/>
+        <hsterms:rightsStatement>This resource is shared under the Creative Commons Attribution CC BY.</hsterms:rightsStatement>
+      </rdf:Description>
+    </dc:rights>
+    <dc:subject>CZNet</dc:subject>
+    <dc:creator>
+      <rdf:Description>
+        <hsterms:organization>Brigham Young University</hsterms:organization>
+        <hsterms:address>S389 ESC, Provo, UT 84602</hsterms:address>
+        <hsterms:email>barry_bickmore@byu.edu</hsterms:email>
+        <hsterms:name>Bickmore, Barry R.</hsterms:name>
+        <hsterms:creatorOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</hsterms:creatorOrder>
+      </rdf:Description>
+    </dc:creator>
+    <hsterms:awardInfo>
+      <rdf:Description>
+        <hsterms:awardNumber>EAR-2005432</hsterms:awardNumber>
+        <hsterms:fundingAgencyName>National Science Foundation</hsterms:fundingAgencyName>
+        <hsterms:awardTitle>A machine-learning approach to quantitative phase analysis of whole rocks and sediments</hsterms:awardTitle>
+      </rdf:Description>
+    </hsterms:awardInfo>
+    <dc:coverage>
+      <dcterms:box>
+        <rdf:value>projection=WGS 84 EPSG:4326; units=Decimal degrees; northlimit=40.7693; eastlimit=-110.7126; southlimit=40.3938; westlimit=-111.5421</rdf:value>
+      </dcterms:box>
+    </dc:coverage>
+    <dc:subject>endmember mixing analysis</dc:subject>
+    <dc:creator>
+      <rdf:Description>
+        <hsterms:organization>Brigham Young University</hsterms:organization>
+        <hsterms:email>greg.carling@byu.edu</hsterms:email>
+        <hsterms:name>Carling, Gregory T.</hsterms:name>
+        <hsterms:address>S389 ESC, Provo, UT 84602</hsterms:address>
+        <hsterms:creatorOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</hsterms:creatorOrder>
+        <hsterms:homepage rdf:resource="https://science.byu.edu/directory/greg-carling"/>
+      </rdf:Description>
+    </dc:creator>
+    <dc:publisher>
+      <rdf:Description>
+        <hsterms:publisherURL rdf:resource="https://www.cuahsi.org"/>
+        <hsterms:publisherName>Consortium of Universities for the Advancement of Hydrologic Science, Inc. (CUAHSI)</hsterms:publisherName>
+      </rdf:Description>
+    </dc:publisher>
+    <dc:title>EMMALAB v. 1.0: Software for improved endmember mixing analysis</dc:title>
+    <dc:description>
+      <rdf:Description>
+        <dcterms:abstract>Quantifying water sources to rivers and streams is critical for managing water resources globally. Endmember mixing analysis (EMMA) is a commonly applied method to water sources to streams that uses tracers for hydrograph separation. Most EMMA applications follow similar methods, but several choices must be made such as selecting tracers, endmembers, and stream locations for mixing.  With no standardized EMMA approach, these choices may be made subjectively with little regard for resulting errors. We created an open-source software program called EMMALAB, developed in Matlab App Designer, to simplify and standardize the workflow associated with EMMA. EMMALAB guides the user through a uniform process to visualize and select endmembers via principal components analysis, calculate the fractional contribution of each endmember, and calculate errors in the mixing analysis. The files in this HydroShare resource include: EMMALAB v1.0 installers for Mac and PC, a data template, and example dataset from the Provo River, and the transcript for a YouTube video that provides instructions for using the software. The Provo River dataset is the example data used in the training video.</dcterms:abstract>
+      </rdf:Description>
+    </dc:description>
+    <dcterms:bibliographicCitation>Thompson, A. N., B. R. Bickmore, E. J. Evans, G. T. Carling (2024). EMMALAB v. 1.0: Software for improved endmember mixing analysis, HydroShare, https://doi.org/10.4211/hs.58b0f961c81a41939415526c8ad78d33</dcterms:bibliographicCitation>
+    <dc:date>
+      <dcterms:modified>
+        <rdf:value>2024-01-08T21:10:26.344562+00:00</rdf:value>
+      </dcterms:modified>
+    </dc:date>
+    <dc:subject>water chemistry</dc:subject>
+    <dc:identifier>
+      <rdf:Description>
+        <hsterms:hydroShareIdentifier rdf:resource="http://www.hydroshare.org/resource/58b0f961c81a41939415526c8ad78d33"/>
+      </rdf:Description>
+    </dc:identifier>
+    <dc:creator>
+      <rdf:Description>
+        <hsterms:address>S389 ESC, Provo, UT 84602</hsterms:address>
+        <hsterms:creatorOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</hsterms:creatorOrder>
+        <hsterms:organization>Brigham Young University</hsterms:organization>
+        <hsterms:email>alyssa.n.pope@gmail.com</hsterms:email>
+        <hsterms:name>Thompson, Alyssa N.</hsterms:name>
+      </rdf:Description>
+    </dc:creator>
+    <dc:subject>principal components analysis</dc:subject>
+    <dc:language>eng</dc:language>
+    <dc:subject>BYU</dc:subject>
+  </hsterms:CompositeResource>
+</rdf:RDF>
