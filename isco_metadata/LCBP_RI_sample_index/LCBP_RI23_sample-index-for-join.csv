@@ -42,7 +42,7 @@ RI23-1049,Wade,04/7/2023,0:00,Grab/Isco,Stream,need to verify type
 RI23-1050,Wade,04/7/2023,6:00,Grab/Isco,Stream,need to verify type
 RI23-1051,Wade,04/7/2023,12:00,Grab/Isco,Stream,need to verify type
 RI23-1052,Wade,04/7/2023,17:00,Grab/Isco,Stream,need to verify type
-RI23-1053,Hungerford,03/24/2023,18:00,Isco,Stream,
+RI23-1053,Hungerford,03/24/2023,18:00,Precip,Endmember,MED initially thought grab sample but changed on 2025-05-21 to precip based on low values. Same sample as ISO23-158.
 RI23-1054,Hungerford,03/25/2023,10:00,Isco/grab,Stream,need to verify type
 RI23-1055,Wade,03/23/2023,12:00,Grab/Isco,Stream,need to verify type
 RI23-1056,Wade,03/23/2023,18:00,Grab/Isco,Stream,need to verify type
@@ -94,7 +94,7 @@ RI23-5002,Hungerford,02/15/2023,12:00,Snowmelt lysimeter,Endmember,
 RI23-5003,Hungerford,02/15/2023,12:00,Soil water lysimeter dry,Endmember,dry site
 RI23-5004,Wade,02/15/2023,12:00,Snow,Endmember,
 RI23-5005,Wade,02/15/2023,12:00,Snowmelt lysimeter,Endmember,
-RI23-5006,Wade,03/01/2023,12:00,Groundwater,Endmember,well
+RI23-5006,Wade,03/01/2023,12:00,Groundwater,Endmember,well - High Pond. TOC log says collected 3/19/2023
 RI23-5007,Hungerford,03/16/2023,12:00,Soil water lysimeter dry,Endmember,dry site
 RI23-5008,Hungerford,03/16/2023,12:00,Groundwater,Endmember,well
 RI23-5009,Wade,03/16/2023,12:00,Soil water lysimeter dry,Endmember,dry site
@@ -103,15 +103,15 @@ RI23-5011,Wade,04/12/2023,12:00,Soil water lysimeter wet,Endmember,wet as per is
 RI23-5012,Wade,04/12/2023,12:00,Snowmelt lysimeter,Endmember,
 RI23-5013,Hungerford,04/12/2023,12:00,Soil water lysimeter wet,Endmember,wet site
 RI23-5014,Hungerford,04/12/2023,12:00,Soil water lysimeter dry,Endmember,dry site
-RI23-5015,Wade,04/12/2023,12:00,Soil water lysimeter wet,Endmember,wet site
+RI23-5015,Wade,04/12/2023,12:00,Soil water lysimeter dry,Endmember,dry as per icp notes
 RI23-5016,Hungerford,04/13/2023,12:00,Precip,Endmember,
 RI23-5017,Hungerford,04/12/2023,12:00,Snowmelt lysimeter,Endmember,
 RI23-5018,Wade,03/10/2023,12:00,Groundwater,Endmember,need to verify bear pond see ICP log
 RI23-1061,Hungerford,03/28/2023,12:00,Snowmelt lysimeter,Endmember,
 RI23-1063,Wade,03/28/2023,12:00,Snowmelt lysimeter,Endmember,
 RI23-1098,Wade,04/11/2023,12:00,Snowmelt lysimeter,Endmember,
-ISO23-110,Wade,04/12/2023,12:00,DM,Endmember,
-ISO23-113,Hungerford,04/12/2023,12:00,DM,Endmember,
+ISO23-110,Wade,04/12/2023,12:00,DM,Endmember,MED doesn’t know what DM meant from MT but only isos
+ISO23-113,Hungerford,04/12/2023,12:00,DM,Endmember,MED doesn’t know what DM meant from MT but only isos
 ISO23-159,Hungerford,02/22/2023,01:15,Grab,Endmember,
 ISO23-160,Wade,02/22/2023,11:30,Grab,Endmember,
 ISO23-161,Hungerford,01/04/2023,12:00,Soil water lysimeter wet,Endmember,Wet Soil Lys
