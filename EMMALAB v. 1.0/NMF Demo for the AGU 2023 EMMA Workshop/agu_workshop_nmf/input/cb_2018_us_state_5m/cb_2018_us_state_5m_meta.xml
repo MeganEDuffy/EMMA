@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:hsterms="https://www.hydroshare.org/terms/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+>
+  <hsterms:GeographicFeatureAggregation rdf:about="http://www.hydroshare.org/resource/404e72b042f0444ca4a5b28cc94697a3/data/contents/agu_workshop_nmf/input/cb_2018_us_state_5m/cb_2018_us_state_5m_resmap.xml#aggregation">
+    <hsterms:FieldInformation>
+      <rdf:Description>
+        <hsterms:fieldWidth rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</hsterms:fieldWidth>
+        <hsterms:fieldType>Integer64</hsterms:fieldType>
+        <hsterms:fieldName>AWATER</hsterms:fieldName>
+        <hsterms:fieldTypeCode>12</hsterms:fieldTypeCode>
+        <hsterms:fieldPrecision rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</hsterms:fieldPrecision>
+      </rdf:Description>
+    </hsterms:FieldInformation>
+    <dc:title>cb_2018_us_state_5m</dc:title>
+    <hsterms:FieldInformation>
+      <rdf:Description>
+        <hsterms:fieldPrecision rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</hsterms:fieldPrecision>
+        <hsterms:fieldWidth rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</hsterms:fieldWidth>
+        <hsterms:fieldType>String</hsterms:fieldType>
+        <hsterms:fieldName>STATENS</hsterms:fieldName>
+        <hsterms:fieldTypeCode>4</hsterms:fieldTypeCode>
+      </rdf:Description>
+    </hsterms:FieldInformation>
+    <hsterms:spatialReference>
+      <hsterms:box>
+        <rdf:value>northlimit=71.352561; southlimit=-14.552548999999999; westlimit=-179.14733999999999; eastlimit=179.77847; projection_string=GEOGCS["NAD83",
+    DATUM["North_American_Datum_1983",
+        SPHEROID["GRS 1980",6378137,298.257222101,
+            AUTHORITY["EPSG","7019"]],
+        TOWGS84[0,0,0,0,0,0,0],
+        AUTHORITY["EPSG","6269"]],
+    PRIMEM["Greenwich",0,
+        AUTHORITY["EPSG","8901"]],
+    UNIT["degree",0.0174532925199433,
+        AUTHORITY["EPSG","9122"]],
+    AUTHORITY["EPSG","4269"]]; projection_name=NAD83; datum=North_American_Datum_1983; units=degree</rdf:value>
+      </hsterms:box>
+    </hsterms:spatialReference>
+    <dc:type rdf:resource="https://www.hydroshare.org/terms/GeographicFeatureAggregation"/>
+    <hsterms:FieldInformation>
+      <rdf:Description>
+        <hsterms:fieldWidth rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</hsterms:fieldWidth>
+        <hsterms:fieldName>AFFGEOID</hsterms:fieldName>
+        <hsterms:fieldType>String</hsterms:fieldType>
+        <hsterms:fieldTypeCode>4</hsterms:fieldTypeCode>
+        <hsterms:fieldPrecision rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</hsterms:fieldPrecision>
+      </rdf:Description>
+    </hsterms:FieldInformation>
+    <hsterms:FieldInformation>
+      <rdf:Description>
+        <hsterms:fieldType>String</hsterms:fieldType>
+        <hsterms:fieldTypeCode>4</hsterms:fieldTypeCode>
+        <hsterms:fieldName>GEOID</hsterms:fieldName>
+        <hsterms:fieldPrecision rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</hsterms:fieldPrecision>
+        <hsterms:fieldWidth rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</hsterms:fieldWidth>
+      </rdf:Description>
+    </hsterms:FieldInformation>
+    <hsterms:FieldInformation>
+      <rdf:Description>
+        <hsterms:fieldType>String</hsterms:fieldType>
+        <hsterms:fieldTypeCode>4</hsterms:fieldTypeCode>
+        <hsterms:fieldName>STATEFP</hsterms:fieldName>
+        <hsterms:fieldPrecision rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</hsterms:fieldPrecision>
+        <hsterms:fieldWidth rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</hsterms:fieldWidth>
+      </rdf:Description>
+    </hsterms:FieldInformation>
+    <hsterms:FieldInformation>
+      <rdf:Description>
+        <hsterms:fieldName>STUSPS</hsterms:fieldName>
+        <hsterms:fieldType>String</hsterms:fieldType>
+        <hsterms:fieldTypeCode>4</hsterms:fieldTypeCode>
+        <hsterms:fieldPrecision rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</hsterms:fieldPrecision>
+        <hsterms:fieldWidth rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</hsterms:fieldWidth>
+      </rdf:Description>
+    </hsterms:FieldInformation>
+    <hsterms:FieldInformation>
+      <rdf:Description>
+        <hsterms:fieldPrecision rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</hsterms:fieldPrecision>
+        <hsterms:fieldTypeCode>4</hsterms:fieldTypeCode>
+        <hsterms:fieldType>String</hsterms:fieldType>
+        <hsterms:fieldName>NAME</hsterms:fieldName>
+        <hsterms:fieldWidth rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">100</hsterms:fieldWidth>
+      </rdf:Description>
+    </hsterms:FieldInformation>
+    <dc:rights>
+      <rdf:Description>
+        <hsterms:rightsStatement>This resource is shared under the Creative Commons Attribution CC BY.</hsterms:rightsStatement>
+        <hsterms:URL rdf:resource="http://creativecommons.org/licenses/by/4.0/"/>
+      </rdf:Description>
+    </dc:rights>
+    <hsterms:FieldInformation>
+      <rdf:Description>
+        <hsterms:fieldName>ALAND</hsterms:fieldName>
+        <hsterms:fieldType>Integer64</hsterms:fieldType>
+        <hsterms:fieldWidth rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</hsterms:fieldWidth>
+        <hsterms:fieldTypeCode>12</hsterms:fieldTypeCode>
+        <hsterms:fieldPrecision rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</hsterms:fieldPrecision>
+      </rdf:Description>
+    </hsterms:FieldInformation>
+    <hsterms:FieldInformation>
+      <rdf:Description>
+        <hsterms:fieldWidth rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</hsterms:fieldWidth>
+        <hsterms:fieldPrecision rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</hsterms:fieldPrecision>
+        <hsterms:fieldTypeCode>4</hsterms:fieldTypeCode>
+        <hsterms:fieldType>String</hsterms:fieldType>
+        <hsterms:fieldName>LSAD</hsterms:fieldName>
+      </rdf:Description>
+    </hsterms:FieldInformation>
+    <dc:language>eng</dc:language>
+    <dc:coverage>
+      <dcterms:box>
+        <rdf:value>westlimit=-179.14733999999999; northlimit=71.352561; eastlimit=179.77847; southlimit=-14.552548999999997; projection=WGS 84 EPSG:4326; units=Decimal degrees</rdf:value>
+      </dcterms:box>
+    </dc:coverage>
+    <hsterms:GeometryInformation>
+      <rdf:Description>
+        <hsterms:geometryType>POLYGON</hsterms:geometryType>
+        <hsterms:featureCount rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">56</hsterms:featureCount>
+      </rdf:Description>
+    </hsterms:GeometryInformation>
+  </hsterms:GeographicFeatureAggregation>
+  <rdf:Description rdf:about="http://www.hydroshare.org/terms/GeographicFeatureAggregation">
+    <rdfs:isDefinedBy rdf:resource="https://www.hydroshare.org/terms/"/>
+    <rdfs:label>Geographic Feature Content: The multiple files that are part of a geographic shapefile</rdfs:label>
+  </rdf:Description>
+</rdf:RDF>
