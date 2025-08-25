@@ -1,0 +1,279 @@
+Sample ID,Site ,Date,Time,Time Zone,Type,Type2,Isotope/ICP pick list #,Acidified for ICPOES? (Y or N),MED Index Notes
+RI25-1001,Potash,12/10/2024,09:00:00 AM,EST,Isco,Stream,63,Y,MLG Missing GF/F sample currently.
+RI25-1002,Potash,12/10/2024,12:00:00 PM,EST,Isco,Stream,,Y,MLG Missing GF/F sample currently.
+RI25-1003,Potash,12/10/2024,03:00:00 PM,EST,Isco,Stream,,Y,MLG Missing GF/F sample currently.
+RI25-1004,Potash,12/10/2024,06:00:00 PM,EST,Isco,Stream,64,Y,MLG Missing GF/F sample currently.
+RI25-1005,Potash,12/10/2024,09:00:00 PM,EST,Isco,Stream,,Y,MLG Missing GF/F sample currently.
+RI25-1006,Potash,12/11/2024,12:00:00 AM,EST,Isco,Stream,,Y,MLG Missing GF/F sample currently.
+RI25-1007,Potash,12/11/2024,03:00:00 AM,EST,Isco,Stream,65,Y,MLG Missing GF/F sample currently.
+RI25-1008,Potash,12/11/2024,06:00:00 AM,EST,Isco,Stream,,Y,MLG Missing GF/F sample currently.
+RI25-1009,Potash,12/11/2024,09:00:00 AM,EST,Isco,Stream,,Y,MLG Missing GF/F sample currently.
+RI25-1010,Potash,12/11/2024,12:00:00 PM,EST,Isco,Stream,66,Y,MLG Missing GF/F sample currently.
+RI25-1011,Potash,12/11/2024,03:00:00 PM,EST,Isco,Stream,67,Y,"MED reading from Del freezer bag 02, assuming 1021 is grab. Missing GF/F sample currently."
+RI25-1012,Potash,12/11/2024,06:00:00 PM,EST,Isco,Stream,,Y,"MED reading from Del freezer bag 02, assuming 1021 is grab. Missing GF/F sample currently."
+RI25-1013,Potash,12/11/2024,09:00:00 PM,EST,Isco,Stream,,Y,"MED reading from Del freezer bag 02, assuming 1021 is grab. Missing GF/F sample currently."
+RI25-1014,Potash,12/12/2024,12:00:00 AM,EST,Isco,Stream,,Y,"MED reading from Del freezer bag 02, assuming 1021 is grab. Missing GF/F sample currently."
+RI25-1015,Potash,12/12/2024,03:00:00 AM,EST,Isco,Stream,,Y,"MED reading from Del freezer bag 02, assuming 1021 is grab. Missing GF/F sample currently."
+RI25-1016,Potash,12/12/2024,06:00:00 AM,EST,Isco,Stream,,Y,"MED reading from Del freezer bag 02, assuming 1021 is grab. Missing GF/F sample currently."
+RI25-1017,Potash,12/12/2024,09:00:00 AM,EST,Isco,Stream,,Y,"MED reading from Del freezer bag 02, assuming 1021 is grab. Missing GF/F sample currently."
+RI25-1018,Potash,12/12/2024,12:00:00 PM,EST,Isco,Stream,,Y,"MED reading from Del freezer bag 02, assuming 1021 is grab. Missing GF/F sample currently."
+RI25-1019,Potash,12/12/2024,03:00:00 PM,EST,Isco,Stream,68,Y,"MED reading from Del freezer bag 02, assuming 1021 is grab. Missing GF/F sample currently."
+RI25-1020,Potash,12/12/2024,06:00:00 PM,EST,Isco,Stream,,Y,"MED reading from Del freezer bag 02, assuming 1021 is grab. Missing GF/F sample currently."
+RI25-1021,Potash,12/13/2024,12:00:00 PM,EST,Grab,Stream,1,Y,"MED reading from Del freezer bag 02, assuming 1021 is grab. Missing GF/F sample currently."
+RI25-1022,Potash,12/28/2024,07:00:00 PM,EST,Isco,Stream,,Y,MED
+RI25-1023,Potash,12/29/2024,01:00:00 AM,EST,Isco,Stream,,Y,MED
+RI25-1024,Potash,12/29/2024,07:00:00 AM,EST,Isco,Stream,69,Y,MED
+RI25-1025,Potash,12/29/2024,01:00:00 PM,EST,Isco,Stream,,Y,MED
+RI25-1026,Potash,12/29/2024,07:00:00 PM,EST,Isco,Stream,,Y,MED
+RI25-1027,Potash,12/30/2024,01:00:00 AM,EST,Isco,Stream,,Y,MED
+RI25-1028,Potash,12/30/2024,07:00:00 AM,EST,Isco,Stream,,Y,MED
+RI25-1029,Potash,12/30/2024,01:00:00 PM,EST,Isco,Stream,,Y,MED
+RI25-1030,Potash,12/30/2024,07:00:00 PM,EST,Isco,Stream,70,Y,MED
+RI25-1031,Wade,12/10/2024,11:30:00 AM,EST,Grab,Stream,2,Y,SB
+RI25-1032,Wade,12/11/2024,02:45:00 PM,EST,Grab,Stream,,Y,SB
+RI25-1033,Hungerford,12/10/2024,06:00:00 PM,EST,Isco,Stream,71,Y,"MED reading from Del freezer bag 01, not sure sample type"
+RI25-1034,Hungerford,12/10/2024,09:00:00 PM,EST,Isco,Stream,,Y,"MED reading from Del freezer bag 01, not sure sample type"
+RI25-1035,Hungerford,12/11/2024,12:00:00 AM,EST,Isco,Stream,,Y,"MED reading from Del freezer bag 01, not sure sample type"
+RI25-1036,Hungerford,12/11/2024,03:00:00 AM,EST,Isco,Stream,,Y,"MED reading from Del freezer bag 01, not sure sample type"
+RI25-1037,Hungerford,12/11/2024,06:00:00 AM,EST,Isco,Stream,72,Y,"MED reading from Del freezer bag 01, not sure sample type"
+RI25-1038,Hungerford,12/11/2024,09:00:00 AM,EST,Isco,Stream,,Y,"MED reading from Del freezer bag 01, not sure sample type"
+RI25-1039,Hungerford,12/11/2024,12:00:00 PM,EST,Isco,Stream,,Y,"MED reading from Del freezer bag 01, not sure sample type"
+RI25-1043,Wade,12/13/2024,03:00:00 PM,EST,Unknown,Stream,73,Y,"MED reading from Del freezer bag 01, not sure sample type"
+RI25-1044,Wade,12/13/2024,05:00:00 PM,EST,Unknown,Stream,,Y,"MED reading from Del freezer bag 01, not sure sample type"
+RI25-1061,Wade,12/11/2024,03:00:00 PM,EST,Isco,Stream,,Y,"MED reading from Del freezer bag 03, assuming all samples present (see PES UF). Missing GF/F sample currently."
+RI25-1062,Wade,12/11/2024,06:00:00 PM,EST,Isco,Stream,,Y,"MED reading from Del freezer bag 03, assuming all samples present (see PES UF). Missing GF/F sample currently."
+RI25-1063,Wade,12/11/2024,09:00:00 PM,EST,Isco,Stream,74,Y,"MED reading from Del freezer bag 03, assuming all samples present (see PES UF). Missing GF/F sample currently."
+RI25-1064,Wade,12/12/2024,12:00:00 AM,EST,Isco,Stream,,Y,"MED reading from Del freezer bag 03, assuming all samples present (see PES UF). Missing GF/F sample currently."
+RI25-1065,Wade,12/12/2024,03:00:00 AM,EST,Isco,Stream,,Y,"MED reading from Del freezer bag 03, assuming all samples present (see PES UF). Missing GF/F sample currently."
+RI25-1066,Wade,12/12/2024,06:00:00 AM,EST,Isco,Stream,75,Y,"MED reading from Del freezer bag 03, assuming all samples present (see PES UF). Missing GF/F sample currently."
+RI25-1067,Wade,12/12/2024,09:00:00 AM,EST,Isco,Stream,,Y,"MED reading from Del freezer bag 03, assuming all samples present (see PES UF). Missing GF/F sample currently."
+RI25-1068,Hungerford,12/11/2024,03:00:00 PM,EST,Isco,Stream,76,Y,"MED reading from Del freezer bag 04, assuming all samples present (see PES UF). Missing GF/F sample currently."
+RI25-1069,Hungerford,12/11/2024,06:00:00 PM,EST,Isco,Stream,,Y,"MED reading from Del freezer bag 04, assuming all samples present (see PES UF). Missing GF/F sample currently."
+RI25-1070,Hungerford,12/11/2024,09:00:00 PM,EST,Isco,Stream,,Y,"MED reading from Del freezer bag 04, assuming all samples present (see PES UF). Missing GF/F sample currently."
+RI25-1071,Hungerford,12/12/2024,12:00:00 AM,EST,Isco,Stream,,Y,"MED reading from Del freezer bag 04, assuming all samples present (see PES UF). Missing GF/F sample currently."
+RI25-1072,Hungerford,12/12/2024,03:00:00 AM,EST,Isco,Stream,77,Y,"MED reading from Del freezer bag 04, assuming all samples present (see PES UF). Missing GF/F sample currently."
+RI25-1073,Hungerford,12/12/2024,06:00:00 AM,EST,Isco,Stream,,Y,"MED reading from Del freezer bag 04, assuming all samples present (see PES UF). Missing GF/F sample currently."
+RI25-1074,Hungerford,12/12/2024,09:00:00 AM,EST,Isco,Stream,,Y,"MED reading from Del freezer bag 04, assuming all samples present (see PES UF). Missing GF/F sample currently."
+RI25-1075,Hungerford,12/12/2024,12:00:00 PM,EST,Isco,Stream,,Y,"MED reading from Del freezer bag 04, assuming all samples present (see PES UF). Missing GF/F sample currently."
+RI25-1076,Hungerford,12/12/2024,03:00:00 PM,EST,Isco,Stream,78,Y,"MED reading from Del freezer bag 04, assuming all samples present (see PES UF). Missing GF/F sample currently."
+RI25-1077,Hungerford,12/13/2024,11:00:00 AM,EST,Grab,Stream,3,Y,"MED reading from Del freezer bag 04, assuming all samples present (see PES UF). Missing GF/F sample currently."
+RI25-1078,Potash,12/31/2024,01:00:00 AM,EST,Isco,Stream,78,Y,MED
+RI25-1079,Potash,12/31/2024,07:00:00 AM,EST,Isco,Stream,,Y,MED
+RI25-1080,Potash,12/31/2024,01:00:00 PM,EST,Isco,Stream,,Y,MED
+RI25-1081,Potash,12/31/2024,07:00:00 PM,EST,Isco,Stream,,Y,MED
+RI25-1082,Potash,01/01/2025,01:00:00 AM,EST,Isco,Stream,79,Y,MED
+RI25-1083,Potash,01/01/2025,07:00:00 AM,EST,Isco,Stream,,Y,MED
+RI25-1084,Potash,01/01/2025,01:00:00 PM,EST,Isco,Stream,,Y,MED
+RI25-1085,Potash,01/01/2025,07:00:00 PM,EST,Isco,Stream,,Y,MED
+RI25-1086,Potash,01/02/2025,01:00:00 AM,EST,Isco,Stream,,Y,MED
+RI25-1087,Potash,01/02/2025,07:00:00 AM,EST,Isco,Stream,,Y,MED
+RI25-1088,Potash,01/02/2025,01:00:00 PM,EST,Isco,Stream,80,Y,MED
+RI25-1089,Wade,01/02/2025,10:30:00 AM,EST,Grab,Stream,4,Y,MED
+RI25-1090,Wade,12/28/2024,06:00:00 PM,EST,Isco,Stream,,Y,MED
+RI25-1091,Wade,12/29/2024,12:00:00 AM,EST,Isco,Stream,,Y,MED
+RI25-1092,Wade,12/29/2024,06:00:00 AM,EST,Isco,Stream,81,Y,MED
+RI25-1093,Wade,12/29/2024,12:00:00 PM,EST,Isco,Stream,,Y,MED
+RI25-1094,Wade,12/29/2024,06:00:00 PM,EST,Isco,Stream,,Y,MED
+RI25-1095,Wade,12/30/2024,12:00:00 AM,EST,Isco,Stream,,Y,MED
+RI25-1096,Wade,12/30/2024,06:00:00 AM,EST,Isco,Stream,82,Y,MED
+RI25-1097,Wade,12/30/2024,12:00:00 PM,EST,Isco,Stream,,Y,MED
+RI25-1098,Wade,12/30/2024,06:00:00 PM,EST,Isco,Stream,,Y,MED
+RI25-1099,Wade,12/31/2024,12:00:00 AM,EST,Isco,Stream,,Y,MED
+RI25-1100,Wade,12/31/2024,06:00:00 AM,EST,Isco,Stream,83,Y,MED
+RI25-1101,Wade,12/31/2024,12:00:00 PM,EST,Isco,Stream,,Y,MED
+RI25-1102,Wade,12/31/2024,06:00:00 PM,EST,Isco,Stream,,Y,MED
+RI25-1103,Wade,01/01/2025,12:00:00 AM,EST,Isco,Stream,,Y,MED
+RI25-1104,Wade,01/01/2025,06:00:00 AM,EST,Isco,Stream,84,Y,MED
+RI25-1105,Wade,01/01/2025,12:00:00 PM,EST,Isco,Stream,,Y,MED
+RI25-1106,Wade,01/01/2025,06:00:00 PM,EST,Isco,Stream,,Y,MED
+RI25-1107,Wade,01/02/2025,12:00:00 AM,EST,Isco,Stream,,Y,MED
+RI25-1108,Wade,01/02/2025,06:00:00 AM,EST,Isco,Stream,85,Y,MED
+RI25-1109,Potash,12/28/2024,09:00:00 AM,EST,Baseflow,Endmember,5,Y,Pre-ISCO grab taken manually from stream can be baseflow MED
+RI25-1110,Hungerford,12/28/2024,01:00:00 PM,EST,Baseflow,Endmember,6,Y,Pre-ISCO grab taken with ISCO line
+RI25-1111,Wade,12/28/2024,02:30:00 PM,EST,Baseflow,Endmember,7,Y,Pre-ISCO grab taken with ISCO line
+RI25-1112,Wade,01/02/2025,12:00:00 PM,EST,Snowmelt lysimeter,Endmember,8,Y,"MED - was still liquid under 20 cm snow insulation. Sampled right bottle, emptied left."
+RI25-1113,Hungerford,01/02/2025,12:00:00 PM,EST,Snowmelt lysimeter,Endmember,9,Y,
+RI25-1114,Potash,12/28/2024,09:00:00 AM,EST,Snow,Endmember,10,Y,Snow sample taken pre-melt because there is no SML set up at Potash currently MED
+RI25-1115,Wade,02/10/2025,11:00:00 AM,EST,Soil water lysimeter dry,Endmember,11,Y,Forgot to filter GF/F before tossing MED
+RI25-1116,Hungerford,02/10/2025,12:30:00 PM,EST,Soil water lysimeter dry,Endmember,12,Y,Got about 1 L of clear water
+RI25-1117,Hungerford,02/10/2025,01:00:00 PM,EST,Soil water lysimeter wet,Endmember,13,Y,Got about 300 mL clear water
+RI25-1118,Wade,12/12/2024,12:00:00 PM,EST,Isco,Stream,,Y,MED found iso need log
+RI25-1119,Wade,12/12/2024,03:00:00 PM,EST,Isco,Stream,,Y,MED found iso need log
+RI25-1120,Wade,12/12/2024,06:00:00 PM,EST,Isco,Stream,,Y,MED found iso need log
+RI25-1121,Wade,10/08/2024,02:00:00 PM,EDT,Soil water lysimeter dry,Endmember,14,N,Check that no PES...can't find as of 2025-06-09 MED
+RI25-1122,Hungerford,12/18/2024,01:15:00 PM,EST,Soil water lysimeter wet,Endmember,15,Y,More than 1 L. Was last sampled 12/10/2024 no water then. Did not require priming so presume it really was empty. Emptied. MED. Missing GF/F sample currently.
+RI25-1123,Wade,12/17/2024,12:30:00 PM,EST,Soil water lysimeter dry,Endmember,16,Y,"About 500 mL, pump needed priming. Emptied. Last sampled 12/10/2024 but there may have been water because this is a tricky one MED"
+RI25-1124,Hungerford,12/18/2024,01:00:00 PM,EST,Soil water lysimeter dry,Endmember,17,Y,More than 1 L. Was last sampled 12/10/2024 no water then. Did require priming so maybe there was some water in there before. Emptied. MED. Missing GF/F sample currently.
+RI25-1125,Potash,12/18/2024,10:15:00 AM,EST,Soil water lysimeter dry,Endmember,18,Y,Lysimeter was full. Emptied. Last sampled 12/10/2024 no water then. Did not require priming. MED. Missing GF/F sample currently.
+RI25-1126,Wade,12/06/2024,11:15:00 AM,EST,Baseflow,Endmember,19,Y,SB NEWRnet grab but could be baseflow MED need to find iso vial and give RI label. Missing GF/F sample currently.
+RI25-1127,Potash,12/10/2024,03:00:00 PM,EST,Snow,Endmember,20,Y,
+RI25-1128,Wade,12/10/2024,11:30:00 AM,EST,Snow,Endmember,21,Y,Snow core taken because no snowmelt lysimeters set up yet
+RI25-1129,Hungerford,12/10/2024,11:30:00 AM,EST,Snow,Endmember,22,Y,
+RI25-1130,Wade,12/12/2024,11:30:00 AM,EST,Snow,Endmember,23,Y,"3'' snow on ground when core taken after rain. Probably stable isos are no good, they sat for a long time (unless SB took a sample, but MED just found bag in walk in in February."
+RI25-1131,Potash,02/24/2025,09:30:00 AM,EST,Baseflow,Endmember,24,Y,"Pre-ISCO grab . About a foot of snow on ground, 32 F and cloudy"
+RI25-1132,Potash,02/27/2025,05:00:00 PM,EST,Soil water lysimeter dry,Endmember,25,Y,Lysimeter was full. Post snowmelt. Emptied.
+RI25-1133,Potash,02/27/2025,05:00:00 PM,EST,Snowmelt lysimeter,Endmember,26,Y,Was set on 2/25/2025 before melt
+RI25-1134,Potash,02/24/2025,06:00:00 PM,EST,Isco,Stream,86,Y,"MED collected 2025-02-28 1030 Still icy, sunny at 20 F. Gauge at -20 (can't really see, lower plank in water)."
+RI25-1135,Potash,02/25/2025,12:00:00 AM,EST,Isco,Stream,,Y,"MED collected 2025-02-28 1030 Still icy, sunny at 20 F. Gauge at -20 (can't really see, lower plank in water)."
+RI25-1136,Potash,02/25/2025,06:00:00 AM,EST,Isco,Stream,,Y,"MED collected 2025-02-28 1030 Still icy, sunny at 20 F. Gauge at -20 (can't really see, lower plank in water)."
+RI25-1137,Potash,02/25/2025,12:00:00 PM,EST,Isco,Stream,,Y,"MED collected 2025-02-28 1030 Still icy, sunny at 20 F. Gauge at -20 (can't really see, lower plank in water)."
+RI25-1138,Potash,02/25/2025,06:00:00 PM,EST,Isco,Stream,87,Y,"MED collected 2025-02-28 1030 Still icy, sunny at 20 F. Gauge at -20 (can't really see, lower plank in water)."
+RI25-1139,Potash,02/26/2025,12:00:00 AM,EST,Isco,Stream,,Y,"MED collected 2025-02-28 1030 Still icy, sunny at 20 F. Gauge at -20 (can't really see, lower plank in water)."
+RI25-1140,Potash,02/26/2025,06:00:00 AM,EST,Isco,Stream,,Y,"MED collected 2025-02-28 1030 Still icy, sunny at 20 F. Gauge at -20 (can't really see, lower plank in water)."
+RI25-1141,Potash,02/26/2025,12:00:00 PM,EST,Isco,Stream,,Y,"MED collected 2025-02-28 1030 Still icy, sunny at 20 F. Gauge at -20 (can't really see, lower plank in water)."
+RI25-1142,Potash,02/26/2025,06:00:00 PM,EST,Isco,Stream,,Y,"MED collected 2025-02-28 1030 Still icy, sunny at 20 F. Gauge at -20 (can't really see, lower plank in water)."
+RI25-1143,Potash,02/28/2025,10:30:00 AM,EST,Grab,Stream,27,Y,"MED collected 2025-02-28 1030 Still icy, sunny at 20 F. Gauge at -20 (can't really see, lower plank in water)."
+RI25-1144,Wade,03/04/2025,04:00:00 PM,EDT,Isco,Stream,88,Y,
+RI25-1145,Wade,03/04/2025,09:00:00 PM,EDT,Isco,Stream,,Y,
+RI25-1146,Wade,03/05/2025,02:00:00 AM,EDT,Isco,Stream,,Y,
+RI25-1147,Wade,03/05/2025,07:00:00 AM,EDT,Isco,Stream,,Y,
+RI25-1148,Wade,03/05/2025,10:45:00 AM,EDT,Grab,Stream,28,Y,
+RI25-1149,Hungerford,03/05/2025,12:30:00 PM,EDT,Grab,Stream,29,Y,
+RI25-1150,Wade,03/07/2025,01:30:00 PM,EDT,Grab,Stream,,Y,
+RI25-1151,Wade,03/06/2025,06:00:00 PM,EDT,Isco,Stream,89,Y,
+RI25-1152,Wade,03/06/2025,01:00:00 PM,EDT,Isco,Stream,,Y,
+RI25-1153,Wade,03/05/2025,12:00:00 PM,EDT,Isco,Stream,,Y,
+RI25-1154,Wade,03/05/2025,05:00:00 PM,EDT,Isco,Stream,90,Y,
+RI25-1155,Wade,03/05/2025,10:00:00 PM,EDT,Isco,Stream,,Y,
+RI25-1156,Wade,03/06/2025,03:00:00 AM,EDT,Isco,Stream,,Y,
+RI25-1157,Wade,03/06/2025,08:00:00 AM,EDT,Isco,Stream,,Y,
+RI25-1158,Wade,03/06/2025,10:30:00 AM,EDT,Grab,Stream,30,Y,
+RI25-1159,Hungerford,03/05/2025,03:00:00 PM,EST,Isco,Stream,91,N,Missing PES as of 2025-06-09 MED
+RI25-1160,Hungerford,03/05/2025,08:00:00 PM,EST,Isco,Stream,,N,
+RI25-1161,Hungerford,03/06/2025,01:00:00 AM,EST,Isco,Stream,,N,
+RI25-1162,Hungerford,03/06/2025,06:00:00 AM,EST,Isco,Stream,,N,
+RI25-1163,Hungerford,03/06/2025,11:00:00 AM,EST,Isco,Stream,,N,
+RI25-1164,Hungerford,03/06/2025,01:45:00 PM,EST,Grab,Stream,31,N,Missing PES as of 2025-06-09 MED
+RI25-1165,Potash,03/14/2025,12:30:00 PM,EDT,Grab,Stream,32,N,Missing PES as of 2025-06-09 MED
+RI25-1166,Hungerford,03/11/2025,06:00:00 PM,EDT,Isco,Stream,,Y,
+RI25-1167,Hungerford,03/12/2025,12:00:00 AM,EDT,Isco,Stream,,Y,
+RI25-1168,Hungerford,03/12/2025,11:15:00 AM,EDT,Grab,Stream,33,Y,
+RI25-1169,Wade,03/11/2025,12:00:00 PM,EDT,Isco,Stream,92,Y,
+RI25-1170,Wade,03/11/2025,06:00:00 PM,EDT,Isco,Stream,,Y,
+RI25-1171,Wade,03/12/2025,12:00:00 AM,EDT,Isco,Stream,93,Y,
+RI25-1172,Wade,03/12/2025,10:15:00 AM,EDT,Grab,Stream,34,Y,
+RI25-1173,Wade,03/13/2025,12:00:00 PM,,Unknown,Stream,,Y,
+RI25-1174,Wade,03/13/2025,04:00:00 PM,,Unknown,Stream,,Y,
+RI25-1175,Hungerford,03/13/2025,02:45:00 PM,,Unknown,Stream,,Y,
+RI25-1181,Potash,03/04/2025,11:00:00 AM,EST,Baseflow,Endmember,35,Y,Pre-event grab
+RI25-1182,Hungerford,03/04/2025,01:30:00 PM,EST,Baseflow,Endmember,36,Y,Pre-event grab
+RI25-1183,Wade,03/04/2025,03:30:00 PM,EST,Baseflow,Endmember,37,Y,Pre-event grab
+RI25-1184,Potash,03/04/2025,02:00:00 PM,EST,Isco,Stream,94,Y,
+RI25-1185,Potash,03/04/2025,07:00:00 PM,EST,Isco,Stream,,Y,
+RI25-1186,Potash,03/05/2025,12:00:00 AM,EST,Isco,Stream,,Y,
+RI25-1187,Potash,03/05/2025,05:00:00 AM,EST,Isco,Stream,,Y,
+RI25-1188,Potash,03/05/2025,10:00:00 AM,EST,Isco,Stream,,Y,
+RI25-1189,Potash,03/05/2025,03:00:00 PM,EST,Isco,Stream,95,Y,
+RI25-1190,Potash,03/05/2025,08:00:00 PM,EST,Isco,Stream,,Y,
+RI25-1191,Potash,03/06/2025,01:00:00 AM,EST,Isco,Stream,,Y,
+RI25-1192,Potash,03/06/2025,06:00:00 AM,EST,Isco,Stream,,Y,
+RI25-1193,Potash,03/06/2025,11:00:00 AM,EST,Isco,Stream,,Y,
+RI25-1194,Potash,03/06/2025,04:00:00 PM,EST,Isco,Stream,96,Y,
+RI25-1195,Potash,03/06/2025,09:00:00 PM,EST,Isco,Stream,,Y,
+RI25-1196,Hungerford,03/06/2025,04:00:00 PM,EST,Isco,Stream,,Y,
+RI25-1197,Hungerford,03/06/2025,09:00:00 PM,EST,Isco,Stream,,Y,
+RI25-1198,Hungerford,03/07/2025,12:30:00 PM,EST,Grab,Stream,37,Y,All ice had melted/broken. Fast and turbid water.
+RI25-1199,Potash,03/07/2025,11:15:00 AM,EST,Isco,Stream,97,Y,All ice had melted/broken. Fast water.
+RI25-1200,Potash,03/07/2025,01:00:00 PM,EST,Snowmelt lysimeter,Endmember,38,Y,Emptied lysimeter bottles. Still a few cm of snow on Potash plastic sheet.
+RI25-1201,Wade,03/11/2025,11:45:00 AM,EDT,Baseflow,Endmember,39,Y,"Pre-event grab.  Slight chance got switched with 1201 pre-ISCO grab, should know from results MED"
+RI25-1202,Hungerford,03/11/2025,03:00:00 PM,EDT,Baseflow,Endmember,40,Y,Pre-event grab
+RI25-1203,Potash,03/13/2025,10:15:00 AM,EDT,Baseflow,Endmember,41,Y,Pre-event grab
+RI25-1204,Wade,03/17/2025,11:30:00 AM,EDT,Grab,Stream,42,Y,
+RI25-1205,Hungerford,03/17/2025,01:45:00 PM,EDT,Grab,Stream,43,Y,Post-ISCO grab
+RI25-1206,Wade,03/17/2025,12:00:00 PM,EDT,Isco,Stream,99,Y,
+RI25-1207,Wade,03/18/2025,12:00:00 AM,EDT,Isco,Stream,,Y,
+RI25-1208,Wade,03/18/2025,12:00:00 PM,EDT,Isco,Stream,,Y,
+RI25-1209,Wade,03/19/2025,12:00:00 AM,EDT,Isco,Stream,,Y,
+RI25-1210,Wade,03/19/2025,12:00:00 PM,EDT,Isco,Stream,100,Y,
+RI25-1211,Wade,03/20/2025,12:00:00 AM,EDT,Isco,Stream,,Y,
+RI25-1212,Wade,03/20/2025,12:00:00 PM,EDT,Isco,Stream,,Y,
+RI25-1213,Wade,03/21/2025,12:00:00 AM,EDT,Isco,Stream,,Y,
+RI25-1214,Wade,03/21/2025,10:30:00 AM,EDT,Grab,Stream,101,Y,
+RI25-1215,Wade,03/28/2025,04:00:00 PM,EDT,Isco,Stream,123,Y,
+RI25-1216,Wade,03/29/2025,04:00:00 PM,EDT,Isco,Stream,124,Y,
+RI25-1217,Wade,03/30/2025,04:00:00 PM,EDT,Isco,Stream,125,Y,
+RI25-1218,Wade,03/31/2025,04:00:00 PM,EDT,Isco,Stream,126,Y,
+RI25-1219,Wade,04/01/2025,04:00:00 PM,EDT,Isco,Stream,127,Y,
+RI25-1220,Wade,04/02/2025,04:00:00 PM,EDT,Isco,Stream,128,Y,
+RI25-1221,Wade,04/03/2025,03:15:00 PM,EDT,Grab,Stream,129,Y,
+RI25-1226,Potash,03/18/2025,09:45:00 AM,EDT,Grab,Stream,44,Y,Mid-event grab
+RI25-1227,Wade,03/07/2025,12:00:00 PM,EDT,Snowmelt lysimeter,Endmember,45,Y,Missing GF/F sample currently.
+RI25-1228,Hungerford,03/07/2025,04:00:00 PM,EST,Snowmelt lysimeter,Endmember,46,Y,
+RI25-1229,Wade,03/17/2025,12:00:00 PM,EDT,Snowmelt lysimeter,Endmember,47,Y,"Slight chance got switched with 1201 pre-ISCO grab, should know from results MED. Missing GF/F sample currently."
+RI25-1230,Hungerford,03/17/2025,02:00:00 PM,EDT,Snowmelt lysimeter,Endmember,48,Y,Not sure about GF/F - check. Missing GF/F sample currently.
+RI25-1231,Wade,03/13/2025,1800,EDT,Isco,Stream,,Y,Missing GF/F sample currently.
+RI25-1232,Wade,03/14/2025,12:00:00 AM,EDT,Isco,Stream,102,Y,Figure out if I sampled GF/Fs
+RI25-1233,Wade,03/14/2025,12:00:00 PM,EDT,Isco,Stream,,Y,Figure out if I sampled GF/Fs
+RI25-1234,Wade,03/14/2025,06:00:00 PM,EDT,Isco,Stream,,Y,Figure out if I sampled GF/Fs
+RI25-1235,Wade,03/15/2025,12:00:00 AM,EDT,Isco,Stream,,Y,Figure out if I sampled GF/Fs
+RI25-1236,Wade,03/15/2025,06:00:00 AM,EDT,Isco,Stream,,Y,Figure out if I sampled GF/Fs
+RI25-1237,Wade,03/15/2025,12:00:00 PM,EDT,Isco,Stream,,Y,Figure out if I sampled GF/Fs
+RI25-1238,Wade,03/15/2025,06:00:00 PM,EDT,Isco,Stream,103,Y,Figure out if I sampled GF/Fs
+RI25-1239,Wade,03/16/2025,12:00:00 AM,EDT,Isco,Stream,,Y,Figure out if I sampled GF/Fs
+RI25-1240,Wade,03/16/2025,06:00:00 AM,EDT,Isco,Stream,,Y,Figure out if I sampled GF/Fs
+RI25-1241,Wade,03/16/2025,12:00:00 PM,EDT,Isco,Stream,,Y,Figure out if I sampled GF/Fs
+RI25-1242,Wade,03/16/2025,06:00:00 PM,EDT,Isco,Stream,,Y,Figure out if I sampled GF/Fs
+RI25-1243,Wade,03/17/2025,12:00:00 AM,EDT,Isco,Stream,,Y,Figure out if I sampled GF/Fs
+RI25-1244,Wade,03/17/2025,06:00:00 AM,EDT,Isco,Stream,,Y,Figure out if I sampled GF/Fs
+RI25-1245,Hungerford,03/13/2025,06:00:00 PM,EDT,Isco,Stream,104,Y,Missing GF/F sample currently.
+RI25-1246,Hungerford,03/14/2025,12:00:00 AM,EDT,Isco,Stream,,Y,
+RI25-1247,Hungerford,03/14/2025,06:00:00 AM,EDT,Isco,Stream,,Y,
+RI25-1248,Hungerford,03/14/2025,12:00:00 PM,EDT,Isco,Stream,,Y,
+RI25-1249,Hungerford,03/14/2025,06:00:00 PM,EDT,Isco,Stream,,Y,
+RI25-1250,Hungerford,03/15/2025,12:00:00 AM,EDT,Isco,Stream,,Y,
+RI25-1251,Hungerford,03/15/2025,06:00:00 AM,EDT,Isco,Stream,105,N,
+RI25-1252,Hungerford,03/15/2025,12:00:00 PM,EDT,Isco,Stream,,N,
+RI25-1253,Hungerford,03/15/2025,06:00:00 PM,EDT,Isco,Stream,,N,
+RI25-1254,Hungerford,03/16/2025,12:00:00 AM,EDT,Isco,Stream,,N,
+RI25-1255,Hungerford,03/16/2025,06:00:00 AM,EDT,Isco,Stream,,N,
+RI25-1256,Hungerford,03/16/2025,12:00:00 PM,EDT,Isco,Stream,,N,
+RI25-1257,Hungerford,03/16/2025,06:00:00 PM,EDT,Isco,Stream,106,N,Missing PES as of 2025-06-09 MED
+RI25-1258,Hungerford,03/17/2025,12:00:00 AM,EDT,Isco,Stream,,N,
+RI25-1259,Hungerford,03/17/2025,06:00:00 AM,EDT,Isco,Stream,,N,
+RI25-1260,Hungerford,03/17/2025,12:00:00 PM,EDT,Isco,Stream,,N,
+RI25-1261,Potash,03/21/2025,10:30:00 AM,EDT,Grab,Stream,49,Y,Post-ISCO grab
+RI25-1262,Hungerford,03/21/2025,12:30:00 PM,EDT,Grab,Stream,50,Y,Post-ISCO grab
+RI25-1263,Potash,03/14/2025,12:00:00 AM,EDT,Isco,Stream,,Y,
+RI25-1264,Potash,03/14/2025,06:00:00 PM,EDT,Isco,Stream,,Y,
+RI25-1265,Potash,03/15/2025,12:00:00 AM,EDT,Isco,Stream,107,Y,
+RI25-1266,Potash,03/15/2025,06:00:00 AM,EDT,Isco,Stream,,Y,
+RI25-1267,Potash,03/15/2025,12:00:00 PM,EDT,Isco,Stream,,Y,
+RI25-1268,Potash,03/15/2025,06:00:00 PM,EDT,Isco,Stream,,Y,
+RI25-1269,Potash,03/16/2025,12:00:00 AM,EDT,Isco,Stream,108,Y,
+RI25-1270,Potash,03/16/2025,06:00:00 AM,EDT,Isco,Stream,,Y,
+RI25-1271,Potash,03/16/2025,12:00:00 PM,EDT,Isco,Stream,,Y,
+RI25-1272,Potash,03/16/2025,06:00:00 PM,EDT,Isco,Stream,,Y,
+RI25-1273,Potash,03/17/2025,12:00:00 AM,EDT,Isco,Stream,109,Y,
+RI25-1274,Potash,03/17/2025,06:00:00 AM,EDT,Isco,Stream,,Y,
+RI25-1275,Potash,03/17/2025,12:00:00 PM,EDT,Isco,Stream,,Y,
+RI25-1276,Potash,03/17/2025,06:00:00 PM,EDT,Isco,Stream,,Y,
+RI25-1277,Potash,03/18/2025,12:00:00 AM,EDT,Isco,Stream,,Y,
+RI25-1278,Potash,03/18/2025,06:00:00 AM,EDT,Isco,Stream,110,Y,
+RI25-1279,Potash,03/18/2025,04:00:00 PM,EDT,Isco,Stream,,Y,
+RI25-1280,Potash,03/19/2025,04:00:00 PM,EDT,Isco,Stream,,Y,
+RI25-1281,Potash,03/20/2025,04:00:00 PM,EDT,Isco,Stream,111,Y,
+RI25-1282,Hungerford,03/18/2025,04:00:00 PM,EDT,Isco,Stream,112,Y,
+RI25-1283,Hungerford,03/19/2025,04:00:00 PM,EDT,Isco,Stream,113,Y,
+RI25-1284,Hungerford,03/20/2025,04:00:00 PM,EDT,Isco,Stream,114,Y,
+RI25-1285,Hungerford,03/17/2025,04:00:00 PM,EDT,Isco,Stream,115,Y,
+RI25-1286,Potash,03/19/2025,03:15:00 PM,EDT,Soil water lysimeter dry,Endmember,51,Y,
+RI25-1287,Potash,03/19/2025,03:00:00 PM,EDT,Snowmelt lysimeter,Endmember,52,Y,
+RI25-1288,Hungerford,03/21/2025,12:30:00 PM,EDT,Soil water lysimeter dry,Endmember,53,Y,
+RI25-1289,Hungerford,03/21/2025,12:30:00 PM,EDT,Soil water lysimeter wet,Endmember,54,y,
+RI25-1290,Wade,03/03/2025,03:45:00 PM,EST,Baseflow,Endmember,55,Y,"SB took, Megan relabeled as RI25 because good baseflow. As of 3/27 need to sticker GF/F and stable iso. Found GF/F as of 5/22/25"
+RI25-1291,Wade,03/21/2025,12:00:00 PM,EDT,Isco,Stream,116,Y,"MED, SH"
+RI25-1292,Wade,03/22/2025,12:00:00 AM,EDT,Isco,Stream,117,Y,"MED, SH"
+RI25-1293,Wade,03/22/2025,12:00:00 PM,EDT,Isco,Stream,118,Y,"MED, SH"
+RI25-1294,Wade,03/23/2025,12:00:00 AM,EDT,Isco,Stream,119,Y,"MED, SH"
+RI25-1295,Wade,03/26/2025,12:00:00 AM,EDT,Isco,Stream,120,Y,"MED, SH"
+RI25-1296,Wade,03/26/2025,12:00:00 PM,EDT,Isco,Stream,,Y,"MED, SH"
+RI25-1297,Wade,03/27/2025,12:00:00 AM,EDT,Isco,Stream,121,Y,"MED, SH"
+RI25-1298,Wade,03/27/2025,12:00:00 PM,EDT,Isco,Stream,,Y,"MED, SH"
+RI25-1299,Wade,03/28/2025,12:00:00 AM,EDT,Isco,Stream,122,Y,"MED, SH"
+RI25-1300,Wade,03/28/2025,11:00:00 AM,EDT,Grab,Stream,56,Y,"MED, SH Mid-event grab "
+RI25-1301,Wade,03/28/2025,11:30:00 AM,EDT,Snowmelt lysimeter,Endmember,57,Y,"MED, SH"
+RI25-1302,Wade,04/03/2025,04:00:00 PM,EDT,Isco,Stream,58,Y,"MED, AG"
+RI25-1303,Wade,04/04/2025,09:15:00 AM,EDT,Grab,Stream,59,Y,"MED, AG Post-ISCO grab "
+RI25-1304,Wade,04/04/2025,09:30:00 AM,EDT,Snowmelt lysimeter,Endmember,60,Y,"MED, AG"
+RI25-1305,Wade,04/04/2025,09:30:00 AM,EDT,Soil water lysimeter dry,Endmember,61,Y,"MED, AG"
+RI25-1306,Wade,04/04/2025,09:45:00 AM,EDT,Soil water lysimeter wet,Endmember,62,Y,"MED, AG"
