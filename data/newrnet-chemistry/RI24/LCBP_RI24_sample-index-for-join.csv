@@ -360,7 +360,7 @@ RI24-1371,Hungerford,04/11/2024,12:00,EDT,Isco,Stream,,07/12/2024,
 RI24-1372,Hungerford,04/11/2024,15:00,EDT,Isco,Stream,,07/12/2024,
 RI24-1373,Hungerford,04/11/2024,18:00,EDT,Isco,Stream,,07/12/2024,
 RI24-1374,Hungerford,04/11/2024,21:00,EDT,Isco,Stream,,07/12/2024,
-RI24-1391,Wade,04/11/2024,14:00,EDT,Isco,Stream,,07/12/2024,
+RI24-1391,Wade,04/11/2024,14:00,EDT,Baseflow,Endmember,,07/12/2024,Baseflow candidate
 RI24-1392,Wade,04/11/2024,17:00,EDT,Isco,Stream,,07/12/2024,
 RI24-1393,Wade,04/11/2024,20:00,EDT,Isco,Stream,,07/12/2024,
 RI24-1394,Wade,04/11/2024,23:00,EDT,Isco,Stream,,07/12/2024,
@@ -414,5 +414,5 @@ RI24-1413,Hungerford,04/14/2024,6:00,EDT,Isco,Stream,,,There was some confusion 
 RI24-1414,Hungerford,04/14/2024,14:30,EDT,Grab,Stream,,,Grab Taken in (acidwashed) polypro bottle
 RI24-1409,Wade,04/14/2024,2:00,EDT,Isco,Stream,,07/12/2024,
 RI24-1410,Wade,04/14/2024,5:00,EDT,Isco,Stream,,07/12/2024,
-RI24-1411,Wade,04/14/2024,8:00,EDT,Isco,Stream,,07/12/2024,
+RI24-1411,Wade,04/14/2024,8:00,EDT,Baseflow,Endmember,,07/12/2024,Candidate for baseflow
 RI24-1370,Wade,04/14/2024,17:00,EDT,Grab,Stream,,07/12/2024,Grab Taken in (acidwashed) polypro bottle
