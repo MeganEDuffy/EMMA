@@ -31,15 +31,15 @@ RI25-1029,Potash,12/30/2024,13:00,EST,Isco,Stream,,Y,MED
 RI25-1030,Potash,12/30/2024,19:00,EST,Isco,Stream,70,Y,MED
 RI25-1031,Wade,12/10/2024,11:30,EST,Grab,Stream,2,Y,SB
 RI25-1032,Wade,12/11/2024,14:45,EST,Grab,Stream,,Y,SB
-RI25-1033,Hungerford,12/10/2024,18:00,EST,Isco,Stream,71,Y,"MED reading from Del freezer bag 01, not sure sample type"
+RI25-1033,Hungerford,12/10/2024,18:00,EST,Baseflow,Endmember,71,Y,"MED reading from Del freezer bag 01, not sure sample type"
 RI25-1034,Hungerford,12/10/2024,21:00,EST,Isco,Stream,,Y,"MED reading from Del freezer bag 01, not sure sample type"
 RI25-1035,Hungerford,12/11/2024,0:00,EST,Isco,Stream,,Y,"MED reading from Del freezer bag 01, not sure sample type"
 RI25-1036,Hungerford,12/11/2024,3:00,EST,Isco,Stream,,Y,"MED reading from Del freezer bag 01, not sure sample type"
 RI25-1037,Hungerford,12/11/2024,6:00,EST,Isco,Stream,72,Y,"MED reading from Del freezer bag 01, not sure sample type"
 RI25-1038,Hungerford,12/11/2024,9:00,EST,Isco,Stream,,Y,"MED reading from Del freezer bag 01, not sure sample type"
 RI25-1039,Hungerford,12/11/2024,12:00,EST,Isco,Stream,,Y,"MED reading from Del freezer bag 01, not sure sample type"
-RI25-1043,Wade,12/13/2024,15:00,EST,Unknown,Stream,73,Y,"MED reading from Del freezer bag 01, not sure sample type"
-RI25-1044,Wade,12/13/2024,17:00,EST,Unknown,Stream,,Y,"MED reading from Del freezer bag 01, not sure sample type"
+RI25-1043,Wade,12/13/2024,15:00,EST,Isco,Stream,73,Y,"MED reading from Del freezer bag 01, not sure sample type"
+RI25-1044,Wade,12/13/2024,17:00,EST,Isco,Stream,,Y,"MED reading from Del freezer bag 01, not sure sample type"
 RI25-1061,Wade,12/11/2024,15:00,EST,Isco,Stream,,Y,"MED reading from Del freezer bag 03, assuming all samples present (see PES UF). Missing GF/F sample currently."
 RI25-1062,Wade,12/11/2024,18:00,EST,Isco,Stream,,Y,"MED reading from Del freezer bag 03, assuming all samples present (see PES UF). Missing GF/F sample currently."
 RI25-1063,Wade,12/11/2024,21:00,EST,Isco,Stream,74,Y,"MED reading from Del freezer bag 03, assuming all samples present (see PES UF). Missing GF/F sample currently."
@@ -128,7 +128,7 @@ RI25-1145,Wade,03/04/2025,21:00,EDT,Isco,Stream,,Y,
 RI25-1146,Wade,03/05/2025,2:00,EDT,Isco,Stream,,Y,
 RI25-1147,Wade,03/05/2025,7:00,EDT,Isco,Stream,,Y,
 RI25-1148,Wade,03/05/2025,10:45,EDT,Grab,Stream,28,Y,
-RI25-1149,Hungerford,03/05/2025,12:30,EDT,Grab,Stream,29,Y,
+RI25-1149,Hungerford,03/05/2025,12:30,EDT,Baseflow,Endmember,29,Y,
 RI25-1150,Wade,03/07/2025,13:30,EDT,Grab,Stream,,Y,
 RI25-1151,Wade,03/06/2025,18:00,EDT,Isco,Stream,89,Y,
 RI25-1152,Wade,03/06/2025,13:00,EDT,Isco,Stream,,Y,
