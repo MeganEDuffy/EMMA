@@ -6,6 +6,17 @@
 
 # Tracers are set up for Wade, Hungerford, and Potash Brooks
 
+# Import libraries
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import sklearn
+from sklearn.decomposition import PCA
+from sklearn.preprocessing import StandardScaler
+from sklearn.linear_model import LinearRegression
+from sklearn.metrics import mean_squared_error
+from scipy.optimize import minimize
+
 # Define event-specfic PCA plot function
 
 def plot_event_pca(
